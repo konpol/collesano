@@ -1,0 +1,1960 @@
+# Language: it
+# Duration: 8249.4s (02:17:29)
+# Transcribed: 2026-07-06 00:55:50
+# Model: faster-whisper medium, beam_size=3
+# Status: complete
+
+[02:01] devo fare qualcosa?
+[02:04] provo a vedere se si sente
+[02:06] così iniziamo
+[02:10] stiamo per iniziare il comizio di questa sera
+[02:12] ripeto
+[02:17] stiamo per iniziare
+[02:19] ok si sente, perfetto
+[02:21] vai
+[02:33] ci siamo? si sente? ok
+[02:35] buonasera a tutti
+[02:37] inizio con ringraziare
+[02:39] ognuno di voi per la presenza qui
+[02:41] questa sera, ringrazio anche coloro
+[02:43] i quali ci stanno seguendo
+[02:45] tramite la diretta
+[02:48] siete tanti e vi ringrazio per la vostra
+[02:50] presenza
+[02:52] perché questo significa solo una cosa
+[02:54] che avete voglia di ascoltare
+[02:56] che avete voglia di
+[02:58] sentire quello che stasera
+[03:00] io e la mia amministrazione abbiamo da dirvi
+[03:02] per farvi
+[03:04] liberamente la vostra opinione
+[03:06] sentendo anche quello
+[03:08] che abbiamo da dire noi
+[03:10] permettetemi una battuta
+[03:12] dopo tutto quello che
+[03:14] è stato detto
+[03:16] in questi periodi
+[03:18] è stato detto durante il comizio
+[03:20] del signor Mary che ho ascoltato
+[03:22] con molta attenzione
+[03:24] spero che siete venuti
+[03:26] tutti spontaneamente
+[03:28] spero che nessuno vi abbia
+[03:30] costretto
+[03:32] spero che nessuno sia qui perché ha
+[03:34] paura di ritorsioni
+[03:36] scusate che si è dovuto fare questa
+[03:38] precisazione legittima
+[03:40] vi chiedo anche scusa se vedrete
+[03:42] non vi faccio passare lo sguardo
+[03:44] perché ho una serie di carte
+[03:46] da consultare, da attenzionare
+[03:48] sapete che di solito parlo
+[03:50] a braccio, parlo con il cuore
+[03:52] guardo le persone negli occhi
+[03:54] spesso questa sera
+[03:56] magari non lo farò
+[03:58] ma non perché non voglia guardarmi
+[04:00] negli occhi o perché
+[04:02] non sappia cosa dire, mi servono le carte
+[04:04] per capire cosa dire
+[04:06] ma perché penso che visto
+[04:08] come sono andate le cose
+[04:10] nel mio ultimo periodo
+[04:12] meritate il rispetto
+[04:14] assoluto, la precisione
+[04:16] più importante
+[04:18] che possa dare questa sera
+[04:20] meritate che io
+[04:22] stia attenta a quello che dica
+[04:24] e non perda
+[04:26] assolutamente il filo del discorso
+[04:28] per permettervi di farvi un'idea di quella
+[04:30] che è la situazione
+[04:36] non mi leggo che
+[04:39] questa sera avrei
+[04:41] e avremmo voluto fare un comizio
+[04:43] avremmo voluto
+[04:45] come avviene nella normalità
+[04:47] raccontare quello che questa amministrazione
+[04:49] questo sindaco, questa giunta
+[04:51] questo consiglio ha fatto
+[04:53] in questi 3 anni, perché sono già
+[04:55] passati 3 anni
+[04:57] avremmo voluto raccontare, lo faremo
+[04:59] anche, questo è importante
+[05:01] sottolinearlo, avrei voluto
+[05:03] raccontare dei progetti
+[05:05] fatti, delle progettualità
+[05:07] nitinere, di quello che è stato
+[05:09] già concluso, di quello che vogliamo
+[05:11] fare, quello che in realtà
+[05:14] fanno normalmente tutti
+[05:16] e ci tengo a precisare
+[05:18] che noi avevamo già deciso
+[05:20] di venire in piazza e raccontare
+[05:22] e farci ascoltare
+[05:24] già il 9 giugno avevamo
+[05:26] superata la periodo della
+[05:28] Targa Florio, la festa della Madonna
+[05:30] avevamo già deciso
+[05:32] di scendere in piazza
+[05:34] per raccontarvi quello che è stato fatto
+[05:36] anche le difficoltà, le criticità
+[05:38] che abbiamo incontrato
+[05:40] non abbiamo assolutamente avuto
+[05:42] bisogno di mental coach
+[05:44] di nessun motivatore
+[05:46] perché il comizio del signor
+[05:48] Meli nasce dopo, già noi avevamo
+[05:50] deciso di scendere in piazza e il signor Meli fa una
+[05:52] richiesta, un'istanza il 13 giugno
+[05:54] fa il comizio del 21 giugno
+[05:56] noi già c'eramo determinati
+[05:58] nel scendere in piazza e raccontarvi
+[06:00] quello che abbiamo fatto
+[06:02] quindi non abbiamo assolutamente necessità
+[06:04] di motivatori
+[06:06] riusciamo a farlo da soli
+[06:09] questa sera ci ritroviamo qui
+[06:11] invece a fare altro anche
+[06:13] ripeto, parleremo di progetti
+[06:15] di quello che si è fatto, delle problematiche
+[06:17] delle criticità che abbiamo incontrato
+[06:19] ma intanto, io
+[06:21] alla mia amministrazione
+[06:23] dobbiamo fare una cosa che sinceramente avevo
+[06:25] proprio evitato, mai avrei pensato
+[06:27] di doffare un comizio
+[06:29] per difendermi d'accusa
+[06:31] da Giovanni Meli ex sindaco
+[06:33] da me sostenuto, era il suo presidente
+[06:35] del consiglio, addirittura il quinta
+[06:37] assessore, mai avrei pensato
+[06:39] di fare un comizio
+[06:41] nel quale devo
+[06:43] rispondere o meglio
+[06:45] precisare rispetto
+[06:47] ad alcuni insulti
+[06:49] anzi, non li definisco insulti
+[06:51] perchè altrimenti poi dirà
+[06:53] che ho voluto fare la vittima, e io vittima sicuramente
+[06:55] non sono, e non lo siamo
+[06:57] alle, come le chiamo?
+[06:59] provocazioni
+[07:01] definiamo, anzi uso il bon ton
+[07:03] che mi è stato detto di non avere
+[07:05] agli aggettivi che ha scelto
+[07:07] di usare
+[07:09] le nostre confronti
+[07:11] e li voglio dire perchè ho scartato con attenzione
+[07:13] il comizio del signor Giovanni Meli
+[07:15] ci ha definito
+[07:17] scarcissimi, non degni
+[07:19] di amministrare, ragazzini
+[07:21] bambini
+[07:23] irresponsabili
+[07:25] facciamo finta che facciamo parte
+[07:28] della politica, riprendo così
+[07:30] sorrido, facciamo
+[07:32] finta che sia il gioco delle
+[07:34] parti, anche se non so di quale politica parla
+[07:36] perchè noi non facciamo questo tipo di politica
+[07:38] ma in realtà
+[07:40] in me non voglio rispondere a questo
+[07:42] perchè, ripeto, sono aggettivi
+[07:44] che ha scelto di utilizzare le nostre confronti
+[07:46] in realtà
+[07:48] mi riferisco ad altro
+[07:50] perchè quando si arriva
+[07:52] e lo fa un ex amministratore
+[07:54] una persona che ha avuto l'onore
+[07:56] di amministrare Collesano
+[07:58] per dieci anni
+[08:01] quando si arriva a dire che oggi
+[08:03] con Collesano la gente ha paura
+[08:05] di parlare
+[08:07] che la gente subisce in silenzio
+[08:09] che la gente non può
+[08:11] liberamente esprimere il proprio
+[08:13] pensiero per paura di
+[08:15] ritorsioni
+[08:17] quando si arriva addirittura a dire
+[08:19] e sorrido perchè non potrei fare
+[08:21] diversamente, che Putin
+[08:23] al confronto mio è democratico
+[08:25] allora permettetemi di dire
+[08:27] questa non è più critica
+[08:29] questa non è più politica
+[08:31] qui si sta offendendo Tiziana Gascio
+[08:33] come sindaco, qui si sta offendendo
+[08:35] un'intera comunità
+[08:37] si sta offendendo una comunità che non lo merita
+[08:39] e io non posso permetterli
+[08:41] perchè a casa non posso permetterli
+[08:43] di farlo fare
+[08:48] noi conosciamo Collesano
+[08:50] conosciamo la gente di Collesano
+[08:52] con le sue fragilità, con le sue potenzialità
+[08:54] conosciamo le persone
+[08:56] perchè le incontriamo ogni giorno
+[08:58] al comune, per strada, al bar
+[09:00] ci parliamo, ci chiamano
+[09:02] e accettiamo le critiche
+[09:06] perchè ci sanno, fanno parte del gioco
+[09:08] fanno parte di questa responsabilità
+[09:10] che abbiamo assunto
+[09:12] a spesso sono anche critiche dure
+[09:14] perchè non sempre la gente è soddisfatta
+[09:16] non sempre la gente ci applaude
+[09:18] era giusto che sia così
+[09:20] le abbiamo sempre accettato
+[09:22] perchè fa parte del ruolo che abbiamo assunto
+[09:24] anche quando qualcuno dice
+[09:26] che non siamo stati
+[09:28] non abbiamo fatto il massimo
+[09:30] anche quando qualcuno dice che si doveva
+[09:32] fare di più
+[09:34] anche quando legittimamente qualcuno dice
+[09:36] che Giovanni Meli o altri sindaci
+[09:38] che ci hanno preceduto
+[09:40] amministrazioni che ci hanno preceduti
+[09:42] sono stati migliori di noi
+[09:44] ci sta, è democrazia
+[09:46] ma non posso accettare
+[09:48] che in un comizio pubblico
+[09:50] un ex amministratore
+[09:52] descriva una Collesano che non esiste
+[09:54] una Collesano che sconosco
+[09:56] probabilmente si sarà confuso
+[09:58] con un bordo che ha visto
+[10:00] ma sicuramente non è la Collesano che conosciamo noi, sicuramente non è la Collesano che vive
+[10:06] Collesano e io ricopolo a voi, mi rivolgo a tutti voi, avete paura, siete venuti liberamente,
+[10:13] avete subito ritorsioni e ve lo chiedo in maniera netta, perché se solo, anche solo
+[10:19] una persona di voi conosce un episodio di ritorsione che ha ricevuto da me o dalla
+[10:25] mia amministrazione deve denunciare, questo si fa, signor Mehdi le intimidazioni, le ritorsioni
+[10:32] non sono sdruabami che si usano per strappare un applauso in comizio, perché ne va della
+[10:36] dignità di un Paese, non devo essere io qui a ricordare come stiamo amministrando
+[10:46] nei rapporti personali, non devo essere io a dire se la nostra porta, perché non
+[10:51] è la mia porta, io non sto amministrando da sola, non devo essere io ricordando
+[10:57] se la nostra porta è aperta, se parliamo con la gente, se discutiamo con la gente,
+[11:03] è vero, spesso non riusciamo a dare sempre la risposta che la gente vorrebbe, spesso
+[11:08] abbiamo dovuto dire no, ma non perché non vogliamo risolvere problemi, spesso non
+[11:15] si può sfartare una strada subito quando ci viene chiesto e allora abbiamo per forza
+[11:20] ma l'impuore dire no, così come spesso è venuta gente in serie a difficoltà
+[11:25] che cercavo il lavoro e purtroppo noi non possiamo soddisfare questa richiesta, possiamo
+[11:30] attivare i servizi sociali ed è quello che abbiamo fatto, ma permettetemi con
+[11:36] tutta sincerità di dire un'altra cosa, che fino a quando l'ex sindaco usa
+[11:42] aggettivi poco carini ma ci sorrilo, veramente ci sorrilo perché penso che non
+[11:47] deve essere io a spiegare la differenza tra Tiziana Cascio, la sua amministrazione
+[11:50] e Putin, penso che la gente ci arrivi da sola, ma quando addirittura mi vengono
+[11:56] fatte lezioni su come vanno gestiti i rapporti personali, ma quello non
+[12:02] l'accetto e soprattutto non accetto che a farmi queste lezioni sia proprio
+[12:07] Giovanni Lumeli, non l'accetto assolutamente perché non devo essere io
+[12:12] a ricordare stasera in questa piazza come si rivolgeva ai cittadini,
+[12:19] non devo essere io a ricordare se la sua porta era sempre aperta o sempre chiusa,
+[12:24] non devo ricordare io di quei sorrisi che venivano regalati e quante volte
+[12:28] invece quei sorrisi mancavano, non devo essere io a ricordare i rapporti
+[12:33] che ha intrattenuto voi dipendenti comunali, no non lo farò perché penso
+[12:38] che i cittadini, voi tutti, possiate ricordare, è la memoria delle
+[12:43] persone più importante di qualsiasi parola che si può spendere in un
+[12:46] comizio e poi mi parla di democrazia, mi parla di una comunità in cui non c'è
+[12:58] apertura, in cui la gente ha questo timore, ma veramente ci vogliamo
+[13:04] prendere in giro, veramente vogliamo dire delle cose che poi nei fatti
+[13:09] in realtà non ci sono, veramente vogliamo continuare nel mio caso
+[13:14] amministrare e gli altri a far posizione così con slogan, io ora mi racconto
+[13:20] un fatto perché non ho un motivo di non dirlo anche perché non c'è nulla
+[13:25] da nascondere, il signor May che la volta precedente ha detto che è stato
+[13:33] tradito il giorno stesso della proclamazione, poi ci arriverò, in uno
+[13:37] messaggio che mi ha mandato, che ho conservato, e lo dico perché si
+[13:41] tratta di un messaggio quindi non sto inventando nulla e sarà il filo
+[13:44] conduttore di questa serata perché tutto quello di cui parleremo può essere
+[13:49] documentato, ci sono fatti, carte, documenti, il signor May esattamente 12
+[13:55] giugno quando già avevo tradito, l'avevamo già tradito così ha
+[14:02] detto, mi mandò un messaggio che ho conservato e ci tengo a dirlo perché
+[14:07] si parla e ci si riempie la bocca di democrazia, di comunità, di apertura, di
+[14:11] dialogo, di confronto, allora ditemi che senso ha questo messaggio, in questo
+[14:16] messaggio il signor May mi, io appena sindaco, sono stata programmata il
+[14:20] 30 maggio, mi ricordava di attenzionare a una questione, mi invitava a
+[14:26] sollevare la questione dell'incompatibilità di un consigliere
+[14:29] comunale e non ho difficoltà di dire chi si parla perché questa questione
+[14:33] fu affrontata nel suo mandato quando io ero allora Presidente del Consiglio,
+[14:37] parlo del consigliere Jannello, colui che adesso mi dice di essere putiniana mi
+[14:43] mandava il 12 giugno un messaggio nel quale mi diceva di ricordarli di
+[14:47] sollevare quella questione dell'incompatibilità, io vi spiego come
+[14:51] è andata, vi dico come è andata, noi non abbiamo voluto iniziare la
+[14:55] nostra esperienza in quel modo, abbiamo ritenuto che qualora ci
+[15:00] fossero cause di incompatibilità o di conflitto di interesse sarebbero state
+[15:05] rilevate dagli organi competenti, veramente ci siamo proposti come quelli
+[15:09] che volevano tendere la mano, veramente ci siamo proposti come quelli
+[15:13] che volevano costruire comunità e abbiamo fatto quello che avevamo
+[15:16] detto in campagna elettorale, di costruire anche un tessuto sociale, però
+[15:21] poi mi si parla di comunità, mi si parla di apertura e di dialogo che
+[15:26] mancherebbe a me e alla mia amministrazione, perché forse è più facile
+[15:30] così fare questi slogan, lo ha fatto l'ex sindaco, lo fa qualcun altro
+[15:34] quando su Facebook ci divertiamo a parlare di comunità, quando poi
+[15:38] l'ultima proprio pensiero è quello di valorizzare la nostra collezano
+[15:44] e ancora ho sentito parlare di tradimento, stanze oscure, strateghi, io
+[15:50] non so di che storia parla il signor Meli, perché noi stanze oscure
+[15:54] non ne abbiamo mai viste, non abbiamo frequentate, strateghi non ne
+[15:59] abbiamo perché offenderebbe l'intelligenza mia di tutti i ragazzi
+[16:02] che insieme a me stanno amministrando questa comunità, sarà la gente,
+[16:05] mi dice bene, io non sono padrone di nessuno, non ci sono mai sentita
+[16:09] perché l'umiltà è uno dei requisiti che i miei genitori che sono lì
+[16:12] mi hanno insegnato, noi non abbiamo avuto stanze oscure, non abbiamo
+[16:16] strateghi, Gianmarco Limburge è un amico, solo per lei la memoria
+[16:20] costa, era anche un amico suo, così come era amico suo Daniele
+[16:23] Cardino, così come era amico suo Il Sengrao, ma ovviamente adesso
+[16:27] il gioco è cambiato e non sono più amici suoi, come era anche
+[16:30] amico suo Vincenzo Pulotta, però poi non sono più amici di nessuno
+[16:35] noi non abbiamo tradito nessuno, noi abbiamo mantenuto fede a quello
+[16:40] che abbiamo detto in campagna elettorale e io messaggi, scambi
+[16:44] con il signor Melli fino a dicembre perché un ex sindaco
+[16:50] mi scriveva leggermente, io apprezzavo per darmi i numeri
+[16:55] telefoni tecnici, ricordarmi di procedure, ricordarmi scarenze
+[16:59] ci siamo andati o no Daniele Cardino, più volte a casa sua
+[17:04] perché noi avevamo rispetto e non abbiamo mai legato quelle esperienze
+[17:08] le opinioni che possono cambiare, possono cambiare posizioni
+[17:11] ma la storia si riscrive, ma si riscrive intera, non per la parte
+[17:15] che conviene e poi ha detto pure che non potendo parlare con noi
+[17:20] ha parlato con la minoranza che l'ascoltava, ripeto, io ho messaggi
+[17:25] che fino a dicembre noi ci sentivamo tranquillamente perché mi
+[17:29] consigliava e mi suggeriva alcune cose che magari dovevano essere
+[17:33] attenzionate, probabilmente aveva già scelto di diventare
+[17:37] il capo dell'opposizione, ci tengo a puntualizzare, perché è corretto
+[17:43] di parte dell'opposizione, perché poi c'è una parte minoritaria dell'opposizione
+[17:48] che ha mantenuto fede al mandato elettorale che gli hanno assegnato i cittadini
+[17:53] e infine, perché poi passo alle altre cose importanti da affrontare
+[17:58] ma era doveroso per me fare questi passaggi, ho sentito un comizio
+[18:02] in cui si è parlato di io, io, mio, ho fatto, progettato, finanziato,
+[18:08] realizzato, ma è diventato sindaco solo, perché io non sono diventata
+[18:13] sindaco solo, io ho avuto una squadra che mi ha sostenuto, ci sono stati
+[18:17] gli elettori, non sto amministrando da sola e le volevo ricordare
+[18:21] che quei cinque anni lei non le ha fatti solo, lei non è diventato
+[18:25] sindaco solo, così come non sono diventata sindaco io e se sono state
+[18:30] importanti i suoi voti, come si l'ha detto lei in comizio, per diventare
+[18:34] sindaco io e far sì che questa amministrazione amministrasse, si
+[18:38] figuri lei che c'era nella sua amministrazione il presidente del
+[18:42] Consiglio Cascio, c'era Delle Cardino, il Sengrao, c'era Mario
+[18:45] Macaluso, c'era Serena, quindi immagino che lei non sia diventato
+[18:49] sindaco solo e inoltre questi cinque anni noi siamo stati lì, quei
+[18:53] progetti non sono solo suoi, sono nostri, quelle attività sono nostre,
+[18:58] le cose che sono state realizzate sono nostre e noi siamo stati lì
+[19:02] sempre pronti a supportarla anche quando rendeva in autonomia decisioni
+[19:07] che non apprezzavamo, vi faccio un esempio uno su tutti, volevamo parlare
+[19:10] del proclimento plastic free o dell'ordinanza sui motorini, ma siamo
+[19:14] stati sempre al suo fianco, fedeli in quell'amministrazione, questo
+[19:18] abbiamo fatto in cinque anni, quei ragazzini incompetenti, quei
+[19:23] bambini con i calzoncini che oggi devide, l'hanno fatto sindaco e
+[19:27] l'hanno permesso di amministrare per cinque anni, e ora vi chiedo come
+[19:31] mai all'improvviso siamo diventati così scarsi, all'improvviso non siamo
+[19:35] diventati incapaci, io vi chiedo, perdonatene se ho perso qualche
+[19:41] minuto, ma penso che dopo tre anni era doveroso da parte mia
+[19:45] puntualizzare qualche cosa, adesso parleremo dei veri argomenti,
+[19:50] parleremo di alcune cose che sono state dette precedentemente,
+[19:53] lo faremo sempre guardando alle carte, perché quello che vogliamo è
+[20:00] raccontarvi e spiegarvi le cose, affinché voi possiate liberamente giudicare.
+[20:06] Perché non c'ha concesso questa libertà di pensiero, visto che siamo in
+[20:11] regime non democratico, Giovanni Melli nello scorso comizio. Così come non me la
+[20:16] sto congelendo io questa libertà di pensiero, ma appartiene a ognuno di
+[20:20] noi e da noi va solo rispettata. Inizio da un primo argomento.
+[20:26] Parliamo di PRG. Inizio subito da questo argomento, perché ho sentito dire anche
+[20:36] che non avevo la faccia, non ce l'avevo messo la faccia. Cosa
+[20:44] ci è stato detto? Vado seguendo. Che siamo stati incompetenti, siamo stati
+[20:50] superficiali, ignoranti. Io, come ho già fatto in consiglio comunale, anche qui
+[20:57] davanti a voi, l'ho fatto in consiglio, davanti ai consiglieri, ai cittadini che
+[21:00] seguivano, e lo farò anche questa sera, ci metto la faccia. Così mi hanno insegnato.
+[21:06] Innanzitutto il comune di Collesano ha un piano regolatore. Questo va
+[21:12] specificato perché poi nell'enfasi di accusare e dire bugia, bugia, mio, io,
+[21:18] poi magari si rischia di far perdere il fio alle persone.
+[21:22] Iniziamo dal dire che il comune di Collesano ha un piano regolatore del 2008.
+[21:28] Sicuramente un piano regolatore datato, come tanti altri comuni, ma questa non
+[21:33] volesse una giustificazione. Sto esponendo.
+[21:37] Noi era necessario un aggiornamento ed è necessario aggiornarlo.
+[21:42] Procedura che è iniziata con l'amministrazione Meli, il primo mandato nel 2012,
+[21:47] quando sono stati dati gli incarichi vari a vari tecnici.
+[21:51] Procedura che è iniziata, si è sviluppata nel tempo e che ha portato a
+[21:57] maggio del 2023 all'approvazione di questo schema di aggiornamento del piano
+[22:01] regolatore. Anche lì un inciso. Non l'ha fatto solo. Addirittura che ero
+[22:05] presidente del consiglio, quindi perdonatevi se dico che anche quel
+[22:08] percorso non l'ha fatto solo. E perdonatevi se dico che evidentemente
+[22:13] non è un percorso semplice, perché se dal 2012 quando vengono dati i primi
+[22:18] incarichi si arriva poi all'approvazione e allo schema di massimo nel 2023, vuol
+[22:23] dire che non sono affatto aspetti semplici da seguire. Ma non è anche
+[22:27] questa una giustificazione perché non ne voglio giustificazioni. Io ci metto
+[22:31] alla faccia e quando è il caso, a differenza di quello che qualcuno dice
+[22:35] che bisogna chiedere scusa, bisogna prendersi la responsabilità, io me la
+[22:39] prendo e noi ce la stiamo prendendo. Inizia da questa attività, ripeto, il
+[22:45] maggio 2023 si approva lo schema di massima di questo aggiornamento del
+[22:49] piano regolatore. Dovevano seguire altre attività. Il comune di Collesano, come
+[22:54] altri comuni, è rientrato in un regime transitorio che prevedeva
+[23:00] l'approvazione e lo schema finale entro il 31-12 2025.
+[23:05] L'ho detto in consiglio e lo ripeto qui in questa piazza. Non abbiamo
+[23:09] approvato l'aggiornamento del PRG entro il 31-12 2025. Non mi sono nascosta
+[23:16] dietro niente. Lo abbiamo detto già in quella sede, l'ho detto in quella sede.
+[23:21] In quella sede l'ho specificato mentre qualcun altro invece ha deciso, mentre
+[23:26] io mi assumevo la responsabilità politica del fatto che non fosse
+[23:30] stato approvato l'aggiornamento del PRG, qualcun altro appena iniziato
+[23:34] l'argomentazione si è alzato e ha abbandonato l'aula consigliare. Noi
+[23:40] abbiamo preso questa responsabilità, l'abbiamo detto, ma non abbiamo
+[23:45] cercato nessun capo espiatorio. Sarebbe stato facile e non ditemi che c'è chi
+[23:50] non lo fa. Noi non abbiamo detto è stata colpa del geologo, del tecrico,
+[23:55] dell'ufficio, non ci siamo mai permessi e non l'abbiamo fatto per altre
+[23:59] situazioni, non lo faremo mai di scaricare la colpa su altri. Noi
+[24:03] quella responsabilità ce la siamo pesi in pieno, ma allo stesso tempo abbiamo
+[24:07] fatto altro. Nel momento in cui non si è riuscita entro il 31-12-2025 ad
+[24:13] approvare l'aggiornamento del PRG ci siamo subito rimboccati le maniche.
+[24:18] Ha arrivato il proferimento dell'assessorato che diceva che anche
+[24:23] il comune di Collesano, così come altri comuni, doveva iniziare la
+[24:27] procedura per il nuovo strumento programmatorio che è il Pug, ci siamo
+[24:32] immediatamente attivati. Questo fa un'amministrazione non
+[24:35] irresponsabile. Nel momento in cui non si è riusciti ad approvare l'aggiornamento
+[24:41] immediatamente ci siamo messi a lavorare per l'approvazione del Pug.
+[24:46] Abbiamo subito approvato la delibera di giunta che definisce l'indirizzo
+[24:52] all'attuazione e l'approvazione del Pug. Abbiamo subito istituito l'ufficio
+[24:57] comunale per la pianificazione urbanistica.
+[25:00] Abbiamo individuato il responsabile del procedimento. Abbiamo fatto l'avviso e
+[25:04] sono arrivate osservazioni ai cittadini. Abbiamo convocato l'incontro con i
+[25:08] professionisti. Non solo. Le ho sentite tante, ripeto,
+[25:13] ammettere e prendersi la responsabilità politica del fatto che
+[25:19] non è stato aggiornato il PRG non vuol dire però accettare tutte le
+[25:23] farsi che sono state dette. Si è parlato di, sempre per slogan ovviamente,
+[25:29] di danne erariale. Addirittura siamo partiti da 150 mila euro, poi siamo
+[25:34] arrivati a 200, 300. L'ultima versione mi pare che si attesti intorno agli
+[25:38] 800 mila euro. Ora non fraintendete in perché non voglio essere presuntuosa,
+[25:42] ne assolutamente sto sottovalutando quello che è il problema PRG. Ma voglio
+[25:48] rassicurare i cittadini, innanzitutto sul fatto che il PRG seppur datato
+[25:52] esiste, sul fatto che questa amministrazione che si è presa la
+[25:55] responsabilità politica del non raggiungimento dell'adeguamento, ha
+[25:59] subito attivato quanto necessario per far sì che il Pug si approvi. E' quello
+[26:05] l'impegno che ci siamo presi. Lo abbiamo fatto in Consiglio Comunale, lo
+[26:08] facciamo anche questa sera in piazza. E ancora vi voglio rassicurare sul
+[26:12] fatto che le attività che sono state fatte per il PRG non sono attività
+[26:17] perse. Quelle attività sono attività che comunque servono e
+[26:22] serviranno anche per il Pug. Ovvio, perché io parlo sempre con la verità, non
+[26:26] mento soprattutto ai miei cittadini, è ovvio che serviranno anche altri
+[26:30] documenti. Proprio per questo e per evitare che vengano utilizzati i soldi
+[26:35] dal bilancio, abbiamo immediatamente attivato quanto necessario e abbiamo
+[26:40] già richiesto il contributo all'assessorato al territorio che ha
+[26:43] emanato un avviso per i comuni, per dare un contributo ai comuni per
+[26:48] poter approvare il Pug. E noi immediatamente ci siamo attivati per
+[26:52] poter chiedere questo contributo. Questo fa un'amministrazione
+[26:55] responsabile. Non siamo rimasti fermi, ci siamo subito attivati e
+[27:00] stiamo ovviamente cercando di non gravare sul bilancio per quelle
+[27:06] altre somme, per quelle altre spese che serviranno. E ripeto, non è stato
+[27:11] un problema di inadeguatezza, di menefreghismo. Noi abbiamo lavorato a
+[27:18] chi ci conosce, sa quanto abbiamo lavorato. Nonostante il nostro
+[27:22] ufficio tecnico ha vissuto nelle vicissitudini particolari, ma non
+[27:26] solo una giustificazione. Noi abbiamo avuto Fabio Fiannaca che ha vinto
+[27:30] un concorso e se ne è andato, il leggeomotramico Mimmo Signorello
+[27:34] che è andato in pensione. Abbiamo assunto una dipendente, un
+[27:37] ingegnere che è poi andato in maternità e adesso si è dimessa
+[27:40] perché non riusciva più a gestire la lontananza da casa. Anche lì non ci
+[27:45] siamo fermati, ci siamo rimboccati le maniche. Grazie a un avviso, non sto a
+[27:50] dirvi qual è perché non mi interessa il tecnicismo, siamo riusciti a far
+[27:53] arrivare l'ufficio oltre al lavoro importantissimo di Marianna e di
+[27:57] Mariella, siamo riusciti a far arrivare un architetto in pianta stabile a
+[28:01] 36 ore, l'architetto Elisa Cartavecchio che è una grande risorsa di
+[28:05] Collesano. Grazie alla rapporti di stima, di affetto col sindaco Ripollina
+[28:10] siamo riusciti a avere con la procedura di scavalco un ingegnere che viene
+[28:16] anche se per poche ore al comune di Collesano, ma ancora in questi giorni
+[28:21] abbiamo attivato con Sosdimo una procedura che ci permetterà di avere
+[28:25] penso settimana prossima un altro ingegnere che verrà a lavorare al
+[28:30] comune di Collesano e poi notizia che avete ovviamente visto anche sui
+[28:34] social di cui veramente sono sono e siamo orgogliosa, conoscete tutti
+[28:39] l'ingegnere di Borio Panzeca, grande persona dal punto di vista umano, grande
+[28:44] persona lavorativamente parlando, è andato in pensione e subito abbiamo
+[28:48] voluto parlare con lui e abbiamo chiesto di darci una mano proprio
+[28:52] perché questi ragazzini responsabili non fanno i politi canti,
+[28:57] amministrano un paese seriamente e con dignità, gli abbiamo chiesto di darci
+[29:02] una mano ed è stato rovinato il primo luglio come esperto del sindaco, questo
+[29:06] per farvi capire che nonostante le vicissitudini non abbiamo perso mai
+[29:11] l'attenzione che meritavano i vari problemi, rispetto al PRG ci siamo
+[29:15] assunti della responsabilità e abbiamo garantito e promesso che quello
+[29:20] che dobbiamo fare è l'approvazione del pubblico e quello lo faremo.
+[29:24] Permettetevi rispetto a questo argomento una piccola parentesi,
+[29:30] nel suo comizio il signor Meli ha detto addirittura che non mi sono presa la
+[29:37] responsabilità politica della mancata approvazione e che addirittura, leggo,
+[29:43] ho buttato fuori l'ex assessore Peri per questo PRG e poi lì c'era anche lui
+[29:49] perché si sopravvaluta, perché l'ho visto parlare con lui.
+[29:54] Io ci tengo a precisare che innanzitutto forse lo faceva lui, forse
+[30:00] buttato fuori nessuno. Il sindaco, così come alla responsabilità di dare un incarico fiduciario,
+[30:06] perché di quello si tratta, fare l'assessore un incarico fiduciario,
+[30:10] ha anche la responsabilità di togliere quell'incarico fiduciario qualora la fiducia venga a mancare e ci venga a sottosinare.
+[30:17] Non parlo mai di aspetti personali, parlo sempre di politica, parlo rapporti sindaco-giunta.
+[30:22] Quindi io non ho tolto, non ho buttato fuori nessuno, perché RG, forse lei non ha seguito quel Consiglio comunale in cui mi sono
+[30:29] presa la responsabilità. E chi lei adesso difende a spada tratta, invece da quell'AO le è uscita.
+[30:35] E mi permette di dirgli veramente lei ha la memoria corta. Lei oggi gli fa il difensore dell'ex-assessore Perry,
+[30:43] quando anche lì ci sono messaggi a non finire, in cui lei lo definiva, lo dico in maniera graziosa, non voglio offendere nessuno,
+[30:50] la pecoranela di questa nuova amministrazione.
+[30:53] Ma vero dice, ma vero vuole continuare a prendere in giro la igiente. Io no, io voglio continuare a raccontarvi quello che è successo e quello che stiamo facendo.
+[31:03] Scusate, vado prendendo le carte. Adesso passiamo a un altro argomento importante, la casa di comunità.
+[31:21] Scusate, è stato detto che aver raccontato a vei e a brembo, perché io li parlo sempre al prodotto, che qui forse non ci crede qualcuno
+[31:34] ma se si vince si vince insieme, quando si perde si perde insieme.
+[31:37] Sulla casa comunità è stato detto che avremmo raccontato bugie ai cittadini, che avremmo preso in giro i collesanesi,
+[31:47] che siamo bravi a giocare con le parole, che non abbiamo il coraggio di assumerci le responsabilità.
+[31:54] Anche questa volta voglio parlare con le carte.
+[31:59] Iniziava da un post mio su Facebook, io mi invito a leggerlo, anche perché ci tengo a precisare.
+[32:07] Io le carte ce l'ho qui questa sera perché mi servono da supporto per raccontarvi, per raccontarvi come stanno le cose.
+[32:14] Ma io le carte ne le proietto, ne le pubblicherò. Sono le stesse carte che avete visto l'altra volta,
+[32:21] solo che mi invito a leggerle tutte e vi invito a leggere senza che abbiate una distorsione della realtà.
+[32:29] Io trascano non ho mai detto, potete guardare anche il post nella mia pagina Facebook, non ho mai detto quelle parole.
+[32:36] Io non ho mai detto che la casa comunità non esisteva.
+[32:40] Non ho mai detto che non c'era un decreto della regione siciliana che prevedeva la realizzazione di una casa comunità spoke.
+[32:49] Poi capirete perché faccio questa precisazione.
+[32:53] Non l'ho mai detto. Non ho mai detto che Alcolesano non fosse inserita in quel piano operativo regionale.
+[33:00] Buggia. Io queste cose non l'ho mai dette, perché il decreto esistecelo qui.
+[33:07] Questo è il decreto che è stato fatto vedere l'altra volta.
+[33:10] In questo decreto, che è attuazione del piano sanitario regionale, è previsto che Alcolesano venisse realizzata una casa comunità.
+[33:18] Così come ci sono anche le interlocuzioni che l'ufficio ha fatto quando chiedevano agli ingegneri dell'ASP le carte.
+[33:25] Io ho detto invece altro.
+[33:27] Io ho detto che non c'era nessun finanziamento in capo alla comune di Collesano.
+[33:35] Perché la verità, quella casa comunità era prevista in quel piano regionale, ma era competenza dell'ASP nella sua struttura realizzarla.
+[33:45] Ma ancora, il piano operativo non l'ho mai detto che non c'era. C'era.
+[33:51] Anche se l'importo, io mi pare aver capito se stavo detto un altro importo.
+[33:55] In realtà l'importo era di 342 mila euro circa.
+[33:58] Capite bene? Per quella struttura, l'ex ospedaletto, 342 mila euro, come sarebbero bastati per fare una casa comunità.
+[34:05] Ma l'avevano detto no, l'avevano inserito nel piano sanitario, quindi io non dico altro.
+[34:10] Io ho detto cose diverse da quelle che mi sono state attribuite.
+[34:15] L'ho fatto anche in un'interrogazione che hanno fatto i consigli di minoranza e che quindi agli atti.
+[34:20] Anche lì non ho mai negato l'esistenza della casa comunità.
+[34:24] Ho detto invece altro.
+[34:26] Anche la delibera di cui ho parlato, del definanziamento, io ce l'ho qua.
+[34:33] La delibera dice un'altra cosa e io voglio leggerla.
+[34:37] Pagina sette.
+[34:39] Reavviamenta gli interventi e le case comunità dei comuni di Collesano e Santa Flavia, perché c'era questa situazione.
+[34:45] In ragione della tipologia, dimensioni, strutture degli mobili esaminati,
+[34:54] è emersa l'impraticabilità tecnica e o economica di procedere alla realizzazione dei due interventi.
+[35:04] In quanto ai costi per adeguare e migliorare le due strutture e requisiti delle norme tecniche delle costruzioni e del DM 77 2022,
+[35:15] risulterebbero economicamente non vantaggiosi, pertanto chiedono che vengano cancellati i interventi.
+[35:23] Ma ancora, sempre in questo decreto, si precisa che
+[35:27] Sono comunque già in alto azioni mirate all'individuare i mobili alternativi
+[35:33] o del poter allocare le funzioni originalmente previste per le decase di comunità
+[35:40] o comunque misure compensative anche al di fuori del perimetro d'azione dei finanziamenti del PNR.
+[35:48] Io non ho letto, l'ho letto con molta calma.
+[35:52] Vi invito a ricordare la data, siamo al 19 dicembre 2024.
+[35:56] Io qui non ho letto, per inefficienza, negligenza, dell'amministrazione e cascio viene tosta la casa comunità.
+[36:03] Io non ho letto.
+[36:05] E vi porto anche un altro documento che l'altra volta non c'era.
+[36:08] E' un documento, è il verbale dei lavori della commissione all'assemblea regionale siciliana del 12 marzo 2025.
+[36:21] In questo verbale era messo all'ordine del giorno la questione sull'attivazione delle case di comunità
+[36:28] e l'allora dirigente, dottor Iacolino, e l'ingegnere Masano, che non vi ero mai l'ingraziare,
+[36:34] il responsabile della procedura di attuazione tramite PNR nelle case comunità,
+[36:39] ha la domanda rispetto allo stato di attuazione delle case comunità rispetto a Collesano,
+[36:45] dice e agli altri, quindi non sto inventando nulla,
+[36:49] che questi due interventi per impraticabilità tecnica dovuti a problemi di tenuta sismica
+[36:58] non avrebbero garantito la conclusione dei lavori entretemmini prescritte e quindi non vengono realizzati.
+[37:05] Signori, queste sono le carte, non è Tiziana Cascio che vi vuole raccontare una storia diversa.
+[37:09] In nessuna di queste carte che state vedendo c'è scritto che è stata negligenza
+[37:16] e che c'è stata un disinteresse da parte di questa amministrazione che ha determinato un definanziamento,
+[37:21] ma li aggiungo di più, anche in questo caso.
+[37:28] Rispetto a un decreto di definanziamento, noi c'eravamo già mossi,
+[37:32] ci sono interlocuzioni che non sono soltanto la mia parola, detta così, pur parler.
+[37:39] Noi già c'eravamo recati dall'allora dirigente, poi divento assessore, Faraoni,
+[37:45] prima di questo decreto, e addirittura c'è una nota, la nota nostra che ha gli atti, ha il protocollo.
+[37:52] Non vedo il consigliere Mario Ganni da Cascio, quindi invito il consigliere Testaiuti,
+[37:56] sono forti a cercare gli inviti per l'aiuto da casa, sono tutte documentabili,
+[38:00] sono tutte al protocollo del comune di Collesano.
+[38:02] Scrivevamo il 4 dicembre 2024 all'allora dirigente Faraoni,
+[38:07] dicendo di attenzionare, prendere in considerazione la possibilità
+[38:11] di utilizzare altre strutture del comune di Collesano
+[38:14] per far sì che quei servizi venissero attivati.
+[38:17] Sono carte che non riesco a farle vedere a causa del vento,
+[38:20] ma ci sono un sacco di comunicazioni.
+[38:23] Noi abbiamo a questo è seguita un sopralluogo,
+[38:26] e l'altra volta è stato detto, addirittura hanno fatto, quasi così,
+[38:29] prenderci in giro, hanno fatto vedere pure il macello, sì.
+[38:33] E ne andiamo orgogliosi, perché quando c'è stato detto che per motivi tecnici,
+[38:38] non per negligenza di questa amministrazione,
+[38:42] questa comunità non veniva più realizzata all'ex ospedaletto.
+[38:45] Noi tutto quello che avevamo da fargli vedere,
+[38:47] abbiamo fatto vedere, perché non volevamo fare perdere
+[38:49] questa occasione del comune di Collesano.
+[38:51] Anche l'ex macello.
+[38:53] Le interlocuzioni non sono finite.
+[38:55] Dopo questa prima nota, abbiamo fatto un sopralluogo,
+[38:59] c'è stata una relazione fatta dagli tecnici dell'ASP.
+[39:03] Poi sapete quello che è successo all'assessorata della Regione Salute.
+[39:06] È cambiato il dirigente, è cambiato l'assessore,
+[39:10] e abbiamo ripreso i rapporti che non erano mai cessati.
+[39:13] Sono proprio l'ora a scriverci il 12 maggio,
+[39:16] dicendo, se a seguito di quella nota,
+[39:18] nel dicembre 2024 c'era ancora la nostra risponibilità.
+[39:23] Noi abbiamo detto di voler concedere,
+[39:25] in comodato d'uso gratuto,
+[39:27] i locali e l'operapia di Viassuola e Larina,
+[39:30] proprio per far sì che questi servizi venissero attivati.
+[39:33] Ovviamente la nostra risposta è immediata.
+[39:36] Il 19 già rispondiamo dicendo,
+[39:38] assolutamente sì,
+[39:39] perché noi, al di là del posto,
+[39:41] al di là di riqualificare quella struttura,
+[39:43] a noi interessava non lasciare i cittadini senza ulteriori servizi.
+[39:48] Facciamo i sopralluoghi.
+[39:50] Vengono richieste le carte il 25 maggio.
+[39:52] Subito ritrasmettiamo le carte che ci vengono richieste.
+[39:56] Ci viene trasmesso una prima bozza,
+[39:58] ricomodato ad uso gratuto.
+[40:00] modifichiamo quanto andava modificato e la data che io vi consiglio, la data importante, è quella del 1° luglio 2016.
+[40:09] Il 1° luglio, scusate, 2026, questa amministrazione di bambini ha deliberato l'approvazione dello schema di contratto
+[40:19] di comodato d'uso gratuito dal comune di Collesano all'azienda sanitaria provinciale Aspi di Palermo
+[40:25] per la concessione di strutture comunale destinate a servizi sanitari per la durata di 35 anni.
+[40:30] E io vi leggo soltanto una parte del comodato, non attenziono tutto.
+[40:35] La destinazione d'uso, perché abbiamo questa struttura in comodato d'uso gratuito?
+[40:41] Per attivare servizi essenziali per la collettività, ambulatori specialistici, servizi di comunità,
+[40:50] PUA, punto unico di accesso, servizi territoriali, continuità assistenziale.
+[40:56] Ora io mi rivolgo a voi, dov'è la responsabilità di questa amministrazione?
+[41:03] Cosa non abbiamo fatto rispetto a uffici, tecnici?
+[41:08] Io dico che motivo aveva l'ingegnere Maisano, che non è il mio padre e il mio fratello,
+[41:13] che motivo aveva di vivere addirittura in una commissione all'ASS
+[41:17] che non ci sarebbe realizzata quella Casa Comunità Collezano per motivi di tenuta sismica,
+[41:22] che motivo aveva di difendere un'amministrazione inefficiente qualora fosse stata così.
+[41:27] Non ce ne sono motivi.
+[41:29] Il motivo per il quale quella Casa Comunità non è stata fatta non dipende dall'efficienza di questa amministrazione,
+[41:35] che anzi, proprio perché non butta fumo negli occhi ai nostri cittadini,
+[41:40] se è subito attivata, poco fa vi dicevo, ricordate la data,
+[41:44] il decreto di definanziamento è del 19 dicembre 2024.
+[41:52] La nota che noi già mandiamo all'allora dirigente Faraone è del 4 dicembre,
+[41:56] ma era stata preceduta da incontri e interlocuzioni.
+[41:59] E se voi ricordate quanto vi ho detto, già nel decreto di definanziamento,
+[42:04] perché questi scemi andavano lavorando,
+[42:07] c'era scritto che si stavano valutando distorbità di altri locali
+[42:10] per dare alla comunità di Collezano al comprensorio quelli che erano i servizi essenziali che erano stati previsti.
+[42:17] Quindi, io stasera vi sto parlando con le carte, le stesse carte, mi dico,
+[42:23] mente lui o stiamo mentendo noi?
+[42:26] A proposito di questa Casa di Comunità,
+[42:31] io ringrazio per la sua presenza qui questa sera il dott. Casiglia,
+[42:37] il dirigente, il direttore del Distretto Sanitario 33,
+[42:41] che è voluto essere presente qui proprio per parlare anche lui di Casa Comunità.
+[42:45] Io lo ringrazio e gli passo la parola.
+[42:52] Buonasera, grazie a tutti, grazie al vostro sindaco che mi ha permesso di potervi dare delle spiegazioni.
+[43:02] In realtà ha detto tutto lei, quindi io non ho capito che cosa devo dirvi di più.
+[43:06] Però, sono felice di essere qua prima, è tutto perché voi vi meritate delle spiegazioni
+[43:15] e poi perché è ormai il mio lavoro.
+[43:18] Nel senso che domani mattina avrò una riunione con tutti gli altri direttori di Distretto dell'Aspo di Palermo,
+[43:26] quindi tutta la provincia, per definire come dare informazioni ai nostri utenti.
+[43:35] Quindi sono venuto qui per darvi delle informazioni su come dovrà agire questo famoso Decreto Ministeriale 77,
+[43:46] perché c'è anche una cosa che chiunque può dirmi che cosa è il Decreto Ministeriale 77, basta che se se lo legge.
+[43:55] Prima una cosa è leggersi una legge, una cosa è applicarla e sapere le differenze, questo è essenziale.
+[44:07] Tutto quello che ha detto il vostro sindaco mi costa perché le istezioni, le ho fatte io,
+[44:15] la prima volta che sono andato all'ex ospedaletto, perché ho avuto questo incarico da parte dell'ufficio speciale
+[44:23] per la progettazione da parte di Palermo, sono andato a vedere in che stato era e quei famigierati 300 mila euro
+[44:31] che erano stati assegnati a questa struttura, l'ingegnere che ha fatto l'inspezione insieme a me ha detto
+[44:39] che potevano seguire solamente per il parcheggio, perché tutto il resto della struttura avrebbe avuto bisogno
+[44:47] di molte più, molte più subvenzioni. Successivamente, visto che era impossibile recuperare l'ex ospedaletto,
+[44:58] abbiamo fatto questa richiesta al nostro comune per riferire se c'erano delle strutture alternative
+[45:06] e abbiamo visto sia il macello, l'ex macello, sia l'operapia. In entrami i casi le strutture non avevano i requisiti
+[45:15] previsti per la ristrutturazione, non ci potevano entrare e quindi ci siamo fermati. Ora devo fare una piccola premessa
+[45:27] con l'esano avrebbe avuto una casa di comunità Spock, così come Polina, mentre Cefalu ha una casa di comunità Hub
+[45:39] Hub e Spock sono due termini inglesi. Spock significa raggio e Hub significa mozzo, perché utilizzano la metafora della bicicletta del ciclista
+[45:53] dove il mozzo è una struttura centrale che può avere tanti raggi, però questi raggi devono afferire al mozzo per permettere che la ruota giri.
+[46:05] Questa metafora sta alla base del decreto misteriale, che vuol dire che questa rivoluzione della sanità che nasce sulle macerie del Covid
+[46:21] cioè il decreto misteriale 77 nasce perché col Covid ci sono stati i fallimenti, i fallimenti sono legati al fatto che il territorio non c'era
+[46:34] si è visto che le regioni che hanno reagito meglio al Covid erano quelle che avevano nelle strutture sanitarie territoriali ben presenti.
+[46:47] Allora su quello nasce questo decreto ministeriale, significa che fare le case di comunità rappresenta un presidio sanitario che innanzitutto si avvicina al più ai cittadini.
+[47:02] Seconda cosa cerca di soddisfare le loro esigenze, terza cosa si rivolge ai pazienti più fragili, ai pazienti chronici, ai pazienti anziani.
+[47:14] Questo è fondamentale per farvi capire un'altra cosa, quindi questo è l'obiettivo fondamentale del decreto ministeriale 77.
+[47:23] Pollina, trasliamola a Collesano, a Pollina stiamo a prendere la casa di comunità dove è prevista la presenza del medico per 12 ore, cioè la guardia medica tanto per intenderci.
+[47:38] Sono previste delle specialità mediche, quindi diabetologia, cardiologia, pneumologia, perché? Perché sono quelle specialità che coinvolgono i pazienti più deboli.
+[47:56] Poi ci sarà anche geriatria e ortopedia se non sbaglio, un amulatore infermialistico, un punto prelievi, un centro unico di prenotazione e un punto unico di accesso.
+[48:12] Come potete ben capire io non sono un politico, sono un tecnico e sto cercando di farvi, di spiegarvi come funzionerà la sanità.
+[48:21] Tutte queste cose noi le stiamo organizzando a Pollina all'interno della struttura chiamata casa di comunità, che è un'organizzazione perché vi ho detto che deve essere connessa con una struttura centrale che è quella di Cefalu e pertanto gli esami arrivano a Cefalu.
+[48:42] Le prescrizioni vengono fatte a Pollina e se si possono fare il loco la visita specialistica si fa lì altrimenti si farà in un altro posto e quindi c'è un'organizzazione, non una struttura.
+[48:58] Ci sono delle funzioni, cosa che è ben altro di avere un ospedale vuoto e sappiamo bene che ci sono degli ospedali che sono bellissimi ma sono vacanti.
+[49:13] E a questo punto quando è arrivata quella famigerata lettera del 2024 dicembre abbiamo avuto la disponibilità, a parte il comunico non le sava, di fare delle strutture simili.
+[49:28] C'è stato un ritardo dovuto al fatto che il nostro direttore generale, Daniele Aparoni, è stato all'unione dell'assessore e da quel momento in poi le cose in azienda hanno funzionato sulle spalle del direttore sanitario e del direttore amministrativo in maniera faticosissima, si sono abbazzati la vita, hanno permesso a questa azienda di continuare a reggere però manca un direttore generale.
+[49:57] Che è quello che prende determinate.
+[50:00] decisioni, al momento in cui è stato rieletto il nuovo direttore generale che è il
+[50:05] professore Aldotto Firenze, abbiamo rivisto tutto quello che si
+[50:09] poteva rivedere e abbiamo preso in considerazione questa proposta da parte
+[50:15] del Comune di Collesano, cioè che aveva a disposizione una struttura,
+[50:19] operapia, che avevamo visto per farlo diventare casa di comunità ma non aveva
+[50:26] i requisiti, però poteva diventare altro, cioè poteva diventare un'organizzazione
+[50:31] sanitaria che aveva le stesse caratteristiche della casa di comunità e
+[50:37] offriva gli stessi servizi della casa di comunità di Pollina, tanto per dire,
+[50:42] pur non essendo. A questo punto abbiamo attivato insieme al ufficio speciale di
+[50:50] Palermo e al vostro comune una sinergia tramite la quale voi avrete qui i stessi
+[50:58] servizi o quantomeno i servizi essenziali che stiamo attivando a
+[51:03] Pollina, quindi avrete qua la fissura. Per favore, ma è un'emozione, cioè io non sono un politico, faccio il tecnico, quindi avrete qui uno
+[51:17] specialista, un diabetologo che sarà qua, non dovrete andare a accedere a lui. Avete la
+[51:22] possibilità di avere il punto unico di accesso, cioè arrivate e vete inseriti in un
+[51:28] sistema informatico sanitario tramite il quale tutto quello che non avete
+[51:37] avuto finora, non potete avere, cioè arrivate, avete bisogno dell'assistenza
+[51:41] domiciliare, avete qui un ufficio per il tramite il quale presentate le carte e
+[51:47] avete l'assistenza domiciliare. Avete bisogno di una visita domiciliare, non c'è
+[51:53] bisogno di andare a Cefalu, verrà fatta direttamente con l'esano e cosa molto
+[51:57] più importante, e questo è l'obiettivo essenziale del decreto ministeriale e
+[52:04] che avrete a vostra disposizione la medicina di prossimità, cioè quella
+[52:09] che necessita e che avete dietro l'angolo, che prevede anche la
+[52:15] telemedicina, cioè avete bisogno di una consulenza cardiologica? Viene il
+[52:20] cardiologo, viene un'infermiere con un tablet di misura ai parametri vitali, si
+[52:26] mette in connessione con il cardiologo che sta a Palermo in un centro
+[52:31] iper specialistico, gli manda i vostri risultati degli esami,
+[52:37] è altro che grande tanto per intenderci, viene visionato da un cardiologo che non
+[52:43] è in sede e gli arriva la terapia a casa, è qualche cosa di diversa,
+[52:49] qualche cosa di molto più utile e finalmente proprio qualche giorno fa
+[52:56] abbiamo sistemato le carte per poter partire, quindi vi posso assicurare che
+[53:00] qui avete diabetologo, cardiologo, pneumologo, geriatra che non era
+[53:06] prevista, ma visto che siamo ormai tutti anziani, qua avete qualche giovane
+[53:10] fortunatamente, visto che siamo contanziani ad un geriatra ci serve, e poi
+[53:15] vedete la possibilità di accedere pietroamente i servizi, così come se
+[53:20] avesse una casa di comunità. Mi auguro la spostezia di vostra, sono di
+[53:25] soluzione e penso di averlo molto bene aggiuntato anche perché ha detto tutto lei,
+[53:31] grazie e buona serata.
+[53:40] Io ringrazio, chiedo scusa, ma vogliamo permettere a chi non è presente di seguire la diretta.
+[55:30] Si sente? Posso continuare? Verifichiamo. Posso continuare? Ok.
+[55:40] Rispetto all'operativa, l'altra volta non vi nascondo che io sono rimasta
+[55:45] perpressa, cioè in cui non si trattava di visione politica, di scelte
+[55:51] amministrative, non c'è una discussione, un sindaco, un'amministrazione che può essere
+[55:56] pure legittimo farlo, ma forse impegnati nel filo conduttore dell'io, del mio, ho fatto, detto,
+[56:04] ho progettato, ci siamo persi e non si è capito più il merito sull'operativa.
+[56:12] Non solo parlava l'ex sindaco, la dottoressa Valerana, rispetto a che io ringrazio, saluto e stimo,
+[56:19] ringrazio per quello che ha spiegato, rispetto a una casa di comunità con le decisazioni che ha fatto il dottore Casiglia,
+[56:25] ma hanno parlato di trenta mesi di servizi attivati, addirittura si è parlato di un post rispetto a una cosa che era sua
+[56:33] e che noi abbiamo a posto appostato per buttare il fumo negli occhi alla... io mi sono persa.
+[56:39] E ritengo che se mi sono persa io, che sono là dentro dalla mattina alla sera, vi siete persi voi.
+[56:44] Quindi proprio un minuto per fare chiarezza rispetto all'operativa.
+[56:50] Una cosa è l'ATS infrastrutture sociali, una cosa è il post che ha fatto l'assessore Ingrao il 19, qualche giorno prima, il 18 del comitio,
+[57:02] un discorso è l'altro progetto che si sta facendo all'operapia, si è fatto un gran minestrone, perché non c'è niente di male,
+[57:11] in quel caso si era ignorante, che non è un'offesa, perché anche io sono ignorante rispetto a certe cose, ignorante vuol dire non sapere.
+[57:18] Non sapere, quindi ignorare qualcosa. E a metto che in quel caso c'è stata un'ignoranza assurda.
+[57:25] L'ATS è una cosa, e io non so di quali trenta mesi parlavano, perché l'ATS va avanti già da almeno un anno.
+[57:34] L'ATS di cui si diceva è mia, l'ho fatta io, è un progetto mio.
+[57:41] L'ATS è un progetto che inizia nel 2022, anzi nel 2021, so svima, che fa sempre da collante rispetto a questi progetti,
+[57:50] che ci informa, manda l'avviso rispetto a questa possibilità, avviso che arriva poi nel 2022, nessuno l'ha mai negato,
+[57:58] perché le carte ci sono, quindi come si fa a negare qualcosa di cui ci sono le carte?
+[58:03] Però non era suo, l'ATS era nostra, perché ritorna sempre lì, c'eravamo anche noi in quel comune, ognuno per il suo ruolo.
+[58:11] L'ho fatto l'avviso, iniziate le procedure nel 2022, è il buona parte del 2023, non è che si è fatto, si è concluso il progetto,
+[58:20] io questo ci tengo a sottolinearlo, perché io dico è vero, il progetto nel 2022, ma non eravamo gli unici,
+[58:29] eravamo fatti vari ATS, il comune di Collefano, il comune di Caposilla, insieme ai comuni di Ganji e di Gratteri,
+[58:37] ma c'erano anche altri ATS, mai intercettato per l'avviso, lavorato con gli altri amministrativi per quell'avviso?
+[58:45] I lavori continuano, è quello che abbiamo fatto, vero Giordano Signorello, è quello che abbiamo fatto,
+[58:51] si sono continuate con le convenzioni, gli altri amministrativi, abbiamo fatto iniziare a lavorare la terapia,
+[58:58] l'abbiamo seguiti, sono stati completati, poi è iniziata la fase socio-assistenziale, è cambiato il loop,
+[59:04] perché non si trattava più di lavori, è stato arrivato l'altro loop che ha insieme seguito l'altra parte,
+[59:10] mi riferisco alla scienziata di cui parlava l'altra volta, lì per benate mi devo farle il passaggio,
+[59:15] perché i dipendenti non vanno mai tirati in pallo, noi non lo faremo mai, perché là dentro c'è gente che lavora
+[59:21] per portare il pane alla famiglia, quindi chiedo scusa io all'avvocato Porcello, che lavora al comune di Collesano
+[59:28] come gli altri dipendenti comunali, sono state avviate le attività che sono adesso in itinere
+[59:36] e che sono state prorogate e continueranno, quindi di che parliamo? L'ATS si inizia nel 2022 in itinere,
+[59:43] ma noi l'abbiamo seguita, solo che mi pare che ci sia il giornino da dire, quando le cose sono state completate
+[59:50] erano sue, quando le cose sono completate e secondo il suo punto di vista c'è stata una covalenza, è suo.
+[01:00:00] che le cose vanno bene, perché questi bambini fanno quello che devono fare, continuare le progetti
+[01:00:06] di tempo importanti per dare servizi e dare risponde alla necessità della cittadinanza,
+[01:00:11] ma non è più mio, è suo, quindi dobbiamo accederci d'accordo, dobbiamo capire cosa
+[01:00:16] c'è di nostro e cosa c'è di suo.
+[01:00:18] Ritorno alla TS, partita da un anno convolge circa 200 cittadini, anziani internazionali
+[01:00:25] per le attività di socializzazione, feromotricità, assistenza del vigiliare, assistenza alle persone fragili,
+[01:00:32] persone che diossamente abili vengono accompagnate o comunque i nostri bambini speciali,
+[01:00:37] così li chiamiamo, che per nostra insistenza vengono accompagnati a fare i percorsi terapeutici,
+[01:00:43] vari altri servizi e assistenti tra cui anche attività proprio di pura socializzazione.
+[01:00:48] Questa è la TS.
+[01:00:50] Poi ha confuso con un altro progetto che è quello del posto dell'assessore Ingrao che io ho qui davanti,
+[01:00:57] quindi non parlava di ATS, non voleva mascherare la Casa Comunità con l'ATS,
+[01:01:04] non voleva buttare femmo negli occhi a nessuno, invece quello che mi parlava dell'assessore Ingrao era altro,
+[01:01:10] il progetto, fonicamente, questo è un pubblicizzato progetto, un progetto differente,
+[01:01:17] un progetto che è stato finanziato nell'ambito del piano di zona del Distretto Sociosanitario 33
+[01:01:24] che ha come obiettivo quello di rafforzare i servizi per i minori e per le famiglie,
+[01:01:28] ed è stato proprio l'assessore Ingrao che ha insistito finché questo progetto fosse reso più accessibile
+[01:01:34] per i nostri cittadini e per gli altri comuni del Distretto a chiedere che venisse fatto l'operapia.
+[01:01:39] Questo era il posto, nessuno mai si stava appropriando una cosa che non era sua ma che era nostra, tra parentesi.
+[01:01:45] E poi l'altro, il progetto AIMA-Valceri Disabili, un altro progetto realizzato sempre con il piano di zona del Distretto 33
+[01:01:56] che ha come obiettivo sempre di supportare i bambini con disabilità.
+[01:02:00] Questo è quello che viene fatto l'operapia.
+[01:02:03] Ma io, e lo dico con molta con sincerità e umiltà, effettivamente non ne poteva saper parlare
+[01:02:13] perché forse ha dimenticato che tutte le riunioni al Distretto, così come avviene adesso,
+[01:02:19] io la ringrazio pubblicamente,
+[01:02:21] le ha sempre segnite l'assessore Ingrao anche durante il suo mandato.
+[01:02:25] Quindi difficilmente può parlare di una cosa di cui non ha mai avuto contezza,
+[01:02:29] ma adesso l'assessore Ingrao non è più brava, lo ero tempi.
+[01:02:33] Adesso in questa amministrazione, in questa senda, non è più brava.
+[01:02:36] Che succede?
+[01:02:47] Adesso parliamo di un altro argomento che è il depuratore.
+[01:02:52] Anche qui, forse perché si è voluto raccontare una vicenda complessa in pochi minuti,
+[01:03:00] si è detto tutto e non si è detto niente, se non dare a questa amministrazione responsabilità.
+[01:03:09] Io voglio iniziare, sarò un po' più lunghetto, ma voglio parlare sia del progetto,
+[01:03:16] sia del compensioso di cui si è parlato, sia di questo finanziamento perso dal sindaco Cash dalla sua amministrazione.
+[01:03:24] Innanzitutto chiamisco che noi abbiamo un depuratore efficiente,
+[01:03:29] è un depuratore che esiste dal 1975, ovviamente è un depuratore datato,
+[01:03:35] che ha richiesto adeguamenti, che richiede adeguamenti e efficientamenti,
+[01:03:41] ma è un depuratore che è perfettamente illegale, è perfettamente funzionante.
+[01:03:47] Perché ci sono altre cose che sono importanti,
+[01:03:49] è che il nostro depuratore non è assolutamente sottoposto a nessuna procedura di infrazione comunitaria.
+[01:03:56] Questo è importante, perché ci sono alcuni comuni che hanno un depuratore che è sottoposto a progiù di infrazione.
+[01:04:03] Il nostro depuratore non ha questo tipo di situazione, è sì datato, ci sono stati gli interventi, ce ne saranno degli altri,
+[01:04:11] ma il nostro depuratore è perfettamente illegale e funzionante.
+[01:04:15] Per questo l'ho chiarito, perché quasi è sembrato che fossimo in una situazione di emergenza,
+[01:04:20] che fossimo in una situazione di infrazione che non già appartiene.
+[01:04:24] Allora l'amministrazione nel 2021, ce l'avamo anche noi, lo sottolineo sempre,
+[01:04:31] proprio perché, guarda al futuro, dà un incarico a uno studio di progettazione,
+[01:04:37] con dei soldi che erano di un'orcia del Ministero per la progettazione,
+[01:04:43] per un progetto di adeguamento ed efficientamento del nostro depuratore.
+[01:04:49] Giustissimo, ce l'avamo anche noi, legittimo, era proprio pensare a colocare l'adeguamento di questo depuratore.
+[01:04:57] Nessuno ha mai detto il contrario, io ce l'ho qua il post che ho pubblicato.
+[01:05:02] Io non ho detto che non c'era nessun progetto, anche in questo caso sarei stata una pazza a dire che non c'era quel progetto,
+[01:05:10] perché il progetto era riatti, io ho detto altro ed è qui.
+[01:05:15] E non avrei potuto dire che non c'era questo progetto, perché le carte sono al comune, mi invito a guardarle,
+[01:05:22] e c'era proprio un documento dell'agosto 2022, attenzione alle date, agosto 2022,
+[01:05:29] nel quale l'ingegnere incaricato diceva che stava consegnando tutti quelli che erano i file del progetto
+[01:05:38] e diceva, leggo, perché quello che voglio fare questa sera,
+[01:05:41] al final permettetemi di toglermi qualche sessorino e penso che sia legittimo,
+[01:05:46] è leggere le carte, e le carte se sono scritte, queste sono, non è che me le posso inventare.
+[01:05:52] Diceva il professionista che il progetto esecutivo è un oggetto per la sua esecuzione richiede l'acquisizione dei seguenti pareri,
+[01:06:03] parere dell'alco, parere dell'assessorato del generale delle energie e dei servizi di pubblica utilità,
+[01:06:10] parere dell'aspi di apportenenza, parere della sovrindendenza, parere del genio civile.
+[01:06:16] Quindi stiamo dando, e l'ho sempre riconosciuto io e la mia amministrazione,
+[01:06:21] che il progetto c'era, era un progetto esecutivo non cambierabile, questo vuol dire,
+[01:06:26] perché ancora non aveva i pareri necessari per essere, per poter essere realizzato.
+[01:06:33] Quindi già abbiamo sfatato la prima mia bugia.
+[01:06:40] Mi dico un'altra cosa, il progetto non era concluso, che vuol dire?
+[01:06:47] Lo faccio con un esempio semplice, semmai dovevo fare costruire una casa.
+[01:06:51] Nel momento in cui affidiamo questo in carica al progettista, il progettista fa il progetto,
+[01:06:56] ma non è che appena ci consegna il progetto la casa già è costruita.
+[01:06:59] Serve una fase di acquisizione dei pareri che si fa proprio in conferenza dei servizi,
+[01:07:03] serve poi la realizzazione vera e propria.
+[01:07:07] Noi cosa abbiamo fatto?
+[01:07:10] Ripeto, abbiamo affondato questa situazione, perché il progetto c'era,
+[01:07:17] ma doveva affondare tutto il percorso amministrativo necessario per diventare veramente utilizzabile.
+[01:07:24] Questo, come vi ho detto, lo dice anche il progettista in quelle carte.
+[01:07:29] Ma soprattutto vengono anche altre carte.
+[01:07:32] Ho sentito dire che il progetto ha quella data,
+[01:07:35] che era la data di presentazione di quello famoso finanziamento sul cui poterò,
+[01:07:40] perché però vi voglio concentrare sul progetto.
+[01:07:43] Non era pronto, e lo dicono le altre carte.
+[01:07:46] Lo dice il fatto che viene aperta una conferenza di servizi,
+[01:07:50] che poi viene però chiusa, e ci sono le carte.
+[01:07:54] Viene chiusa per una serie di motivazioni.
+[01:07:57] Alla conferenza di servizi nella quale si doveva
+[01:08:00] si dovevano acquisire tutti i pareri per far sì che quel progetto fosse realizzabile,
+[01:08:05] viene chiusa, dopo che è stata rinviata per le precisazioni,
+[01:08:09] viene chiusa perché si chiedeva in quella sede
+[01:08:14] la richiesta di conformità urbanistica.
+[01:08:17] Veniva chiesa l'avvio della variante al piano regolatore,
+[01:08:21] venivano chiesti ulteriori avventimenti.
+[01:08:25] Allora io già vi dico, ma non si era detto che questo progetto era pronto,
+[01:08:29] era finito, era concluso? Non è così.
+[01:08:33] E ripeto, non lo sto dicendo io.
+[01:08:35] Diversamente quella conferenza dei servizi avrebbe avuto esito positivo
+[01:08:40] e avrebbe già consegnato i pareri a col depuratore.
+[01:08:45] Ma noi cosa abbiamo fatto?
+[01:08:47] Si è continuato questa attività, perché il progettista legittimamente è detto,
+[01:08:52] rispetto alla discorso della variante al TRG, che non serviva.
+[01:08:57] Ha detto che non serviva perché non si trattava di una nuova costruzione,
+[01:09:01] non si trattava di un nuovo depuratore, ma dell'adovamento del depuratore che esisteva,
+[01:09:06] motivo per il quale reazione rispetto a questa situazione,
+[01:09:10] dicendo che non serviva fare la variante allo strumento urbanistico.
+[01:09:15] Viene richiesta l'indizione a una nuova conferenza dei servizi con queste precisazioni,
+[01:09:20] intanto viene sollevato la questione della problematica dell'esame d'origine.
+[01:09:26] Il professionista dà la relazione rispetto a quest'esame,
+[01:09:31] ma la conferenza non viene riaperta.
+[01:09:33] Per la conferenza non viene riaperta perché l'AT dice che fin quando,
+[01:09:40] e sono questi documenti, siamo a gennaio 23,
+[01:09:43] l'AT dice che fin quando non vengono risolte queste problematiche
+[01:09:48] ma non ha senso riaprire la conferenza.
+[01:09:51] Ci inseriamo noi, troviamo questa situazione,
+[01:09:54] noi non abbiamo fatto, non siamo stati irresponsabilmente fatti.
+[01:10:00] che si sono stati riusciti a
+[01:10:03] riuscire a farlo. Noi il fedore
+[01:10:06] dalla fede ce lo siamo alzati.
+[01:10:09] Noi abbiamo fatto anche un
+[01:10:11] incontro e non lo dico perché
+[01:10:13] m'ha detto questa sera. Si
+[01:10:14] ricorderà il giomote
+[01:10:16] signorello. Noi abbiamo visto
+[01:10:18] che le problematiche erano
+[01:10:19] due. Relativa a questa
+[01:10:21] acquisizione del parere.
+[01:10:23] Dall'altro non più l'indagine
+[01:10:25] autoreggiana perché l'ha stata
+[01:10:26] fatta ma i calcoli era un
+[01:10:28] concorso. Noi abbiamo una
+[01:10:30] comunità urbanistica chiarito
+[01:10:32] che non è necessaria la
+[01:10:34] variante. Noi cerziamo il
+[01:10:36] sederella seria. Facciamo
+[01:10:38] quello che l'amministrazione
+[01:10:40] deve fare. Dopo le
+[01:10:42] interlocuzioni arriva la nota
+[01:10:44] del lati e siamo a gennaio
+[01:10:46] ventiquattro con la quale ci
+[01:10:48] dice che ci viene detto visto
+[01:10:50] eh come d'accordi presi per
+[01:10:52] le vie e brevi su iniziativa
+[01:10:54] dell'amministrazione comunale
+[01:10:56] io lo sottolineo su
+[01:10:58] l'amministrazione. Noi questo
+[01:11:00] sindaco, questa amministrazione
+[01:11:02] che non siamo rimasti fermi
+[01:11:04] abbiamo avuto l'incontro per
+[01:11:06] affrontare il tema della
+[01:11:08] conformità urbanistica e l'incontro
+[01:11:10] del sei di gennaio. Quindi
+[01:11:12] questo dimostra che rispetto al
+[01:11:14] depuratore anche lì non siamo
+[01:11:16] rimasti fermi. Abbiamo fatto
+[01:11:19] quello che era necessario fare.
+[01:11:21] Siamo andati lì abbiamo chiarito
+[01:11:23] questa problematica. Sono
+[01:11:25] stati forniti intanto da parte
+[01:11:27] dell'amministrazione comunale
+[01:11:29] e dell'amministrazione
+[01:11:31] urbanistica. Prima il
+[01:11:33] professionista rispetto a
+[01:11:35] questi calcoli che probabilmente
+[01:11:37] era qualcosa in più che ci ne
+[01:11:39] aveva chiesto o meno requisito
+[01:11:41] per avere questo parere. Il
+[01:11:43] professionista ci disse che
+[01:11:45] non era in condizione di
+[01:11:47] poter fare questi calcoli. Di
+[01:11:49] conseguenza provato il bilancio
+[01:11:51] con l'ufficio tecnico comunale
+[01:11:53] del comune di Collesano
+[01:11:55] non siamo stati fermi, non ce ne
+[01:11:57] siamo lavati le mani, anzi ci
+[01:11:59] siamo impegnati, abbiamo lavorato.
+[01:12:01] Abbiamo chiesto condizione alla
+[01:12:03] nuova conferenza dei servizi.
+[01:12:05] La conferenza dei servizi c'è
+[01:12:07] stata. La conferenza dei
+[01:12:09] servizi si è conclusa
+[01:12:11] positivamente
+[01:12:13] in 29 marzo se non sbaglio
+[01:12:15] perché in quella data avevamo
+[01:12:17] acquisito quanti lati richiedono
+[01:12:19] per far sì che
+[01:12:21] il problema venisse risolto.
+[01:12:23] Questo dimostra che l'amministrazione
+[01:12:25] non è stata ferma,
+[01:12:27] dimostra che l'amministrazione
+[01:12:29] comunale CASH si è mossa, ha cercato
+[01:12:31] insieme all'ufficio tecnico
+[01:12:33] di risolvere problematiche necessarie.
+[01:12:35] Quindi quel progetto
+[01:12:37] di cui si parlava concluso
+[01:12:39] l'agosto 2022 non esisteva.
+[01:12:41] Io questo ho detto,
+[01:12:43] io non ho detto che non esisteva
+[01:12:45] un progetto esecutivo,
+[01:12:47] io non ho detto che non era stato dato
+[01:12:49] di incarico un professionista,
+[01:12:51] che quel progetto mancava di pareri
+[01:12:53] e non lo dico solo io.
+[01:12:55] Sempre perché
+[01:12:57] l'ex sindaco ha avuto
+[01:12:59] il tradimento della mia
+[01:13:01] proclamazione,
+[01:13:03] l'8 giugno, pochissimi giorni
+[01:13:05] dopo il mio insedimento, mi scrivo un messaggio
+[01:13:07] che leggo, perché sono messaggi miei,
+[01:13:09] non dico nulla che non posso dire.
+[01:13:11] Ho parlato con Saniele, il vice sindaco,
+[01:13:13] per un problema con il progetto
+[01:13:15] del depuratore. Siamo a
+[01:13:17] giugno 23, quindi non siamo
+[01:13:19] al 22.
+[01:13:21] Ho dato ai pochi il tuo numero,
+[01:13:23] Gennino, anticipando la problematica,
+[01:13:25] stanno salendo. Io andrei
+[01:13:27] personalmente all'assessorato a parlare
+[01:13:29] con l'assessore. Prendete l'appuntamento,
+[01:13:31] perché se si prende ancora tempo
+[01:13:33] vi si è saltato il progetto.
+[01:13:35] Poi non è tra tu. Vogliamo ancora dire
+[01:13:38] che l'agosto 2022 il progetto
+[01:13:40] era pronto,
+[01:13:42] finito, c'era i tarei,
+[01:13:44] che la conferenza di servizi sarebbe conclusa
+[01:13:46] probabilmente, ma ancora lo vogliamo dire.
+[01:13:48] Oltre alle tante c'è anche
+[01:13:50] questo messaggio, in cui
+[01:13:52] il vice sindaco ha detto il sindaco
+[01:13:54] attuale di una problematica ancora
+[01:13:56] di Timera, ma di che cosa stiamo parlando?
+[01:13:58] Ho seguito, tra parentesi,
+[01:14:02] quel consiglio, e ci siamo
+[01:14:04] annossi. Abbiamo fatto proprio
+[01:14:06] quello che non avevamo fatto. Mi dico
+[01:14:08] di più. Chiusa la conferenza
+[01:14:10] di servizi nel 2024,
+[01:14:12] ci scusate, nel marzo
+[01:14:14] 2024, poi con
+[01:14:16] l'ufficio tecnico abbiamo,
+[01:14:18] anche il responsabile del
+[01:14:20] dipartimento di energia, si è preso un po' di tempo,
+[01:14:22] si è chiusa favorevolmente,
+[01:14:24] quindi c'è la carta scritta in cui
+[01:14:26] si dice che non serve più criticità
+[01:14:28] e che i pareri venivano resi,
+[01:14:30] per dove ancora tempo abbiamo addirittura scritto
+[01:14:32] noi, sollecitando che mandassero
+[01:14:34] tutte le carte necessarie affinché
+[01:14:36] potessimo procedere con le varie
+[01:14:38] tappe di approvazione.
+[01:14:40] Perché vi dico un'altra cosa.
+[01:14:42] Nel momento in cui un progetto
+[01:14:45] viene fatto, anche se
+[01:14:47] è un progetto esecutivo, ha le necessità
+[01:14:49] come vi ho spiegato, di avere i pareri
+[01:14:51] per essere canterabili, ma poi
+[01:14:53] c'è un'altra fase. Bisogna la fase
+[01:14:55] delle verifiche, e in base all'importo,
+[01:14:57] come in questo caso, non è il comune
+[01:14:59] stesso che può verificarlo,
+[01:15:01] ma la verifica completa gli organi
+[01:15:03] diversi. In questo caso è stato l'ufficio
+[01:15:05] tecnico di livelli comuni a
+[01:15:07] verificare e approvare tecnicamente
+[01:15:09] questo progetto. Serve poi
+[01:15:11] l'approvazione amministrativa,
+[01:15:13] che è l'approvazione che fa l'aggiunta. Solo
+[01:15:15] in un momento un progetto
+[01:15:17] diventa effettivamente utilizzabile
+[01:15:19] per poter accedere ad un
+[01:15:21] allineo differenziamento.
+[01:15:23] E questo abbiamo fatto, perché nel momento
+[01:15:25] in cui finalmente la conferenza
+[01:15:27] dei servizi era conclusa, quindi
+[01:15:29] questa amministrazione aveva risolto
+[01:15:31] le problematiche, le criticità
+[01:15:33] collegate a questo depuratore,
+[01:15:35] il progetto era il 2021.
+[01:15:37] Era un progetto
+[01:15:39] non adeguato al preziario
+[01:15:41] regionale del 2024.
+[01:15:43] Era un progetto
+[01:15:45] che non era adeguato al nuovo
+[01:15:47] coerge del 2024, perché mentre non
+[01:15:49] c'era più il coerge 50 del
+[01:15:51] 2016, ma c'era il 36 del
+[01:15:53] 2023, che prevede
+[01:15:55] altre carte.
+[01:15:57] Questo progetto del 2021
+[01:15:59] non aveva i CAM, non
+[01:16:01] aveva il DSH.
+[01:16:03] Quindi non potevamo procedere
+[01:16:05] comunque alla sua verifica e
+[01:16:07] validazione, perché necessitava di un
+[01:16:09] aggiornamento. E chi sente questa
+[01:16:11] amministrazione di responsabili?
+[01:16:13] Cosa ha fatto? Ha capito che
+[01:16:15] era necessario aggiornare
+[01:16:17] questo progetto. E la persona
+[01:16:19] che tornava a farlo era proprio chi
+[01:16:21] aveva fatto questo progetto,
+[01:16:23] mentre c'era il problema del
+[01:16:25] contenzioso di cui poi ritorno.
+[01:16:27] Allora questa amministrazione ha chiuso quel
+[01:16:29] contenzioso, ci ritornerò dopo.
+[01:16:31] Siamo riusciti a avere,
+[01:16:33] in domani, nella chiusura del contenzioso
+[01:16:35] abbiamo filmato
+[01:16:37] la transazione, siamo riusciti
+[01:16:39] a fare questo progetto aggiornato,
+[01:16:41] adeguato al 9% degli apparti.
+[01:16:43] Lo abbiamo fatto
+[01:16:45] approvare l'inatecnica
+[01:16:47] dall'Astituto In Tecnica dell'Unione.
+[01:16:49] Lo abbiamo approvato in giunta,
+[01:16:51] siamo a ottobre 2025,
+[01:16:53] solo in quel momento
+[01:16:55] quel progetto finalmente
+[01:16:57] poteva essere utilizzato
+[01:16:59] per essere ammesso a finanziamento.
+[01:17:01] Ed è quello che abbiamo fatto, perché intanto
+[01:17:03] è uscita una vila di finanziamento
+[01:17:05] e abbiamo inoltre provato
+[01:17:07] sempre, per il panico dell'ADI,
+[01:17:09] ha provato a
+[01:17:11] chiedere i soldi per la regolamento
+[01:17:13] di questo nostro procuratore.
+[01:17:15] Sono sempre carte, si tratta di fondi
+[01:17:17] Sicilia 2021-2027,
+[01:17:19] di decreto
+[01:17:21] 824, l'Assessore
+[01:17:23] regionale di energia e servizi di pubblico
+[01:17:25] di utilità. Oggi io non mi posso dire
+[01:17:27] se ce l'hanno finanziato o meno.
+[01:17:29] Io vi racconto
+[01:17:31] sempre la verità, perché non mento.
+[01:17:33] Noi abbiamo risolto
+[01:17:35] le criticità collegate a quel progetto.
+[01:17:37] Il progetto, oggi il comodico
+[01:17:39] LeSana, è quel progetto che è
+[01:17:41] completo, adeguato. Abbiamo
+[01:17:43] provato ad
+[01:17:45] accedere a questa linea di finanziamento,
+[01:17:47] di cui ancora non abbiamo notizie,
+[01:17:49] nel momento in cui non dovessero andare a bene,
+[01:17:51] comunque il comodico LeSana ha un progetto
+[01:17:53] pronto da poter utilizzare
+[01:17:55] per un'altra linea di finanziamento. Questo è
+[01:17:57] quello che abbiamo fatto.
+[01:17:59] E ora vi chiedo, parliamo del famoso
+[01:18:01] finanziamento perso. L'ho spiegato
+[01:18:03] cosa è successo al progetto.
+[01:18:05] Si è detto che avevamo perso questo
+[01:18:07] finanziamento. E io vi dico che
+[01:18:09] anche perché siamo al comune
+[01:18:11] tutti i giorni,
+[01:18:13] ma lo dico con un'estrema serenità.
+[01:18:15] Qual è il numero di questo decreto di
+[01:18:17] finanziamento? La data?
+[01:18:19] Dov'è questo decreto
+[01:18:21] di finanziamento? Perché non
+[01:18:23] è sufficiente dirlo al comizio,
+[01:18:25] non è sufficiente dirlo su Facebook.
+[01:18:27] L'Ore Sosvima
+[01:18:29] aveva nel 2022
+[01:18:31] mandato ai comuni la
+[01:18:33] notizia di questo avviso.
+[01:18:35] E il comodico LeSana ben affatto
+[01:18:37] con la loro amministrazione media,
+[01:18:39] con l'ufficio tecnico, ha presentato
+[01:18:41] quella scheda progettuale.
+[01:18:43] Si trattava di una scheda progettuale
+[01:18:45] perché è inutile che ci ritornino.
+[01:18:47] Anaposto a 22 non c'era un progetto
+[01:18:49] completamente cadierabbero. L'ho spiegato
+[01:18:51] e non ci voglio ritornare per non diriarvi.
+[01:18:53] Hanno ben fatto.
+[01:18:55] Ma poi è stata Lati, che era
+[01:18:57] il soggetto attuatore,
+[01:18:59] selezionato che i progetti,
+[01:19:01] dando precedenza, lo diceva il decreto
+[01:19:03] stesso, appello sottoposto a procedere
+[01:19:05] in frazione, e ha comunicato
+[01:19:07] all'assassurato regionale, perché era
+[01:19:09] comunque un avviso regionale,
+[01:19:11] i quelli che erano le possibili
+[01:19:13] schede progettuali da ammettere al
+[01:19:15] finanziamento. Ma non esisteva nessun
+[01:19:17] finanziamento. E io per essere
+[01:19:19] ancora più cara, perché così come per
+[01:19:21] la casa comunità, vorrei fare anche
+[01:19:23] per il depuratore, vorrei non tornarci
+[01:19:25] più, chiedo per avermi
+[01:19:27] messo un fai l'alba.
+[01:19:32] Guarda mo che dobbiamo fare?
+[01:20:01] che succede?
+[01:20:03] no, adesso è giusto
+[01:20:08] scusate, lo stiamo per mandare
+[01:20:10] non l'avete provato?
+[01:20:17] sì
+[01:20:34] non l'avete provato?
+[01:20:36] no, no, pure che lo faccio sentire
+[01:20:38] eh, pure dico che lo faccio sentire
+[01:20:41] con il telefono almeno
+[01:20:57] con il telefono almeno ci riusciamo?
+[01:20:59] no
+[01:21:07] ci ritroveremo dopo
+[01:21:12] ci ritroveremo dopo perché abbiamo purtroppo
+[01:21:14] un problema tecnico
+[01:21:16] ma se non riusciamo a risolverlo in questo momento
+[01:21:18] sarà mia cura
+[01:21:20] ho detto che i documenti non li pubblicherò
+[01:21:22] perché già li avete visti, sono quelli
+[01:21:24] solo che sto dando la lettura corretta
+[01:21:26] che ho dato a quei documenti
+[01:21:28] diversamente pubblicherò questi audio
+[01:21:30] erano comunque degli audio
+[01:21:32] dell'ingegnere Grifasi del Lati
+[01:21:34] in cui chiaramente
+[01:21:36] diceva che non c'era
+[01:21:38] nessun finanziamento
+[01:21:40] chiaramente ribadiva quello che ho detto questa sera
+[01:21:42] diceva chiaramente che si trattava di
+[01:21:44] raccogliere schede progettuali
+[01:21:46] ma non c'era nessun
+[01:21:48] finanziamento, anzi addirittura
+[01:21:50] lo stesso ingegnere che diceva
+[01:21:52] sei con i comuni, non volevo offenderci forse
+[01:21:54] quando si chiede
+[01:21:56] una schede progettuale vuol dire
+[01:21:58] di avere l'impegno di spese, soldi in banca
+[01:22:00] non è così, altro era
+[01:22:02] raccogliere schede progettuali
+[01:22:04] e in quel audio l'ingegnere
+[01:22:06] diceva chiaramente che non c'era nessun finanziamento
+[01:22:08] quindi questo per dire che noi
+[01:22:10] non abbiamo perso nessun finanziamento
+[01:22:12] legittimamente l'amministrazione
+[01:22:14] di quel momento con l'ufficio techico
+[01:22:16] aveva presentato una schede progettuale
+[01:22:18] di un progetto che vi ho raccontato
+[01:22:20] e non sto inventando, che ho parlato
+[01:22:22] di date, di carte che sono tutte
+[01:22:24] verificabili al comune, carte
+[01:22:26] che dimostrano che quella conferenza di servizi
+[01:22:28] si è chiusa a marzo
+[01:22:30] che ha seguito un altro intero che ci ha
+[01:22:32] portato poi all'approvazione
+[01:22:34] definitiva l'ottobre, e devo dire
+[01:22:36] sì, con presunzione, siamo stati voi
+[01:22:38] che abbiamo intercettato la prima
+[01:22:40] linea di finanziamento e poi
+[01:22:42] ha presentato il nostro
+[01:22:44] depuratore, e se dovesse
+[01:22:46] andare male il depuratore, quel progetto
+[01:22:48] avesse pronto per essere
+[01:22:50] ovviamente presentato su
+[01:22:52] altre linee di finanziamento
+[01:22:54] breve parentesi su quella che è
+[01:22:56] il discorso del condensioso che è nato
+[01:22:58] rispetto al progetto
+[01:23:00] del depuratore
+[01:23:02] in maniera sintetica si è detto
+[01:23:04] il professionista dal lavoro ne fa un altro
+[01:23:06] poi i pazzi, piuttosto che pagarlo
+[01:23:08] gli fanno causa e grazie
+[01:23:10] all'altra scienziata, prendono un
+[01:23:12] avvocato e spendono soldi pubblici
+[01:23:14] in realtà non sono andate così le
+[01:23:16] cose, il progettista
+[01:23:18] ha legittimamente
+[01:23:20] dico io perché è giusto
+[01:23:22] ha avanzato una ulteriore
+[01:23:24] richiesta rispetto a quella che era la
+[01:23:26] parcella disciplinaria iniziale di
+[01:23:28] altri 28.000 euro
+[01:23:30] io penso che legittimamente
+[01:23:32] altrettanto la loro responsabile
+[01:23:34] l'ufficio tecnico, perché non siamo a casa
+[01:23:36] nostra, verificate le carte
+[01:23:38] che aveva in possesso e chiede
+[01:23:40] all'altro responsabile che si occupa
+[01:23:42] il contensioso di tutelare lente
+[01:23:44] nominando un avvocato
+[01:23:46] ditemi voi qual è lo scandalo
+[01:23:48] ditemi voi che cosa hanno fatto
+[01:23:50] risvegliato la loro responsabile
+[01:23:52] dell'ufficio tecnico, la
+[01:23:54] responsabile dell'area contensiosa e questo
+[01:23:56] simile a questa amministrazione
+[01:23:59] prima del giudizio
+[01:24:01] c'è una fase di mediazione
+[01:24:03] che l'ho mai prevista per legge
+[01:24:05] che non si conclude positivamente
+[01:24:07] perché le posizioni rimangono belle
+[01:24:09] poi subentra un'altra cosa
+[01:24:11] invece, subentra
+[01:24:13] oltre a quella che ha la situazione in essere
+[01:24:15] anche la necessità
+[01:24:17] di poter partecipare
+[01:24:19] ad un nuovo finanziamento è un progetto
+[01:24:21] che doveva essere adeguato, aggiornato
+[01:24:23] e quant'altro, e allora
+[01:24:25] responsabilmente ci siamo seduti tutti
+[01:24:27] il sindaco, la giunta
+[01:24:29] quasi tutta, perché c'era
+[01:24:31] la stessa idea
+[01:24:33] il segretario, responsabile dell'area
+[01:24:35] contensiosa, responsabile
+[01:24:37] dell'ufficio tecnico, e insieme
+[01:24:39] abbiamo valutato quello che era
+[01:24:41] giusto per lente
+[01:24:43] per nessuno di noi, per lente
+[01:24:45] e in quel momento per lente
+[01:24:47] supportato anche dal nostro avvocato
+[01:24:49] era conveniente
+[01:24:51] chiudere quel giudizio, quel
+[01:24:53] contensioso, che comunque aveva un
+[01:24:55] rischio di soccompenza, come è normale
+[01:24:57] che sia, tra parentesi
+[01:24:59] è molto contagioso, perché a fronte
+[01:25:01] del 28 mila euro più IVA, più CPI
+[01:25:03] e quant'altro, abbiamo dato
+[01:25:05] una somma inferiore di circa 19 mila euro
+[01:25:07] se non ricordo male, ma non solo questo
+[01:25:09] all'indomare della firma
+[01:25:11] dell'accordo transattivo, abbiamo
+[01:25:13] immediatamente ricevuto
+[01:25:15] dal professionista, un progetto
+[01:25:17] adeguato, aggiornato, e questo
+[01:25:19] ci ha permesso di poter
+[01:25:21] partecipare a quel bando
+[01:25:23] ditemi voi, qual'è lo scandalo
+[01:25:25] ditemi voi, che storia
+[01:25:27] è stata raccontata e quale grave
+[01:25:29] danna abbiamo fatto al comune
+[01:25:31] altra parentesi, si è parlato
+[01:25:33] di soldi utilizzati all'avanzo
+[01:25:35] comunale per
+[01:25:37] fare questi lavori di 250 mila
+[01:25:39] euro del depuratore
+[01:25:41] io in realtà non so di che cosa si
+[01:25:43] parla, perché noi degli interventi
+[01:25:45] che si sono stati necessari, abbiamo fatti
+[01:25:47] tamponando quanto serviva, intervenendo
+[01:25:49] sul momento, ma non abbiamo
+[01:25:51] fatto, non erano richiesti questi
+[01:25:53] interventi, rispetto all'uso dell'avanzo
+[01:25:55] ma da guardare bene come abbiamo utilizzato
+[01:25:57] l'avanzo noi, noi per i festini e le feste
+[01:25:59] che ci teniamo e le facciamo pure
+[01:26:01] perché servono anche quelle al nostro paese
+[01:26:03] non abbiamo utilizzato mai soldi all'avanzo
+[01:26:05] noi soldi all'avanzo l'abbiamo utilizzati
+[01:26:07] per dare in carico una ditta
+[01:26:09] di fare una ricognizione per risolvere il problema
+[01:26:11] della toponomastica, perché ci sono
+[01:26:13] ancora zone senza una via
+[01:26:15] senza un numero civico, quei soldi
+[01:26:17] l'abbiamo utilizzati per fare loggio
+[01:26:19] al cimitero, per fare un intervento
+[01:26:21] sulla rete idrica, per fare un intervento
+[01:26:23] quindi su strade, per quella abbiamo utilizzato l'avanzo
+[01:26:25] siamo riusciti a risolvere?
+[01:26:27] forse abbiamo risolto
+[01:26:29] quindi per chiudere questo capitolo vediamo
+[01:26:31] se riusciamo
+[01:26:33] un intervento
+[01:26:35] è stato detto
+[01:26:37] e poi l'intervento è stato presso
+[01:26:39] perché
+[01:26:41] l'ibbio portuto all'amministrazione
+[01:26:43] contro il pre-itumorisi
+[01:26:45] non ha definito
+[01:26:47] la progettura di affatto dei lavori
+[01:26:49] questo è detto
+[01:26:51] sì sì vai vai vai
+[01:28:44] mandali tutti, ci dovrebbe essere l'ultimo
+[01:29:47] ora
+[01:29:57] grazie ci siamo riusciti, io così come
+[01:29:59] per la casa
+[01:30:00] perché in questa casa di
+[01:30:02] comunità penso che anche questo
+[01:30:05] argomento è definitivamente
+[01:30:07] chiuso. Non l'ha detto
+[01:30:09] soltanto il sindaco per
+[01:30:11] difendersi con delle carte che
+[01:30:13] comunque rimangono carte e sono
+[01:30:15] visibili e visionabili a tutti
+[01:30:17] voi. Avete appena sentito? Non
+[01:30:19] c'era nessun finanzamento per
+[01:30:21] i depuratori di Collesano. Ha
+[01:30:23] precisato anche l'altro
+[01:30:25] aspetto. Comunque sia era un
+[01:30:27] progetto che seppur a livello
+[01:30:29] poi ha sottolineato che comunque
+[01:30:32] i comuni scandano la richiesta
+[01:30:34] di idee di schede progettuali
+[01:30:36] per un decreto già
+[01:30:38] d'impegno. Io penso che non debba
+[01:30:40] aggiungere altro, che non debba
+[01:30:42] giustificare me e la mia
+[01:30:44] amministrazione ancora. Io
+[01:30:46] capisco che sto
+[01:30:48] perdendo un po' di tempo, mi
+[01:30:50] chiedo scusa ma era necessario
+[01:30:52] chiarire questi aspetti e vorrei
+[01:30:54] continuare con una parte che
+[01:30:56] per me e per noi è importante
+[01:30:58] perché abbiamo chiarito
+[01:31:00] alcuni aspetti rispetto
+[01:31:02] agli argomenti che erano stati
+[01:31:04] presi, rispetto ai quali eravamo
+[01:31:06] stati definiti bugiardi,
+[01:31:08] irresponsabili, bambini e
+[01:31:10] quant'altro. E con l'aiuto delle
+[01:31:12] carte, il contributo del dottore
+[01:31:14] Casiglia per la cosa comunità,
+[01:31:16] del reggioniere Di Saffi o
+[01:31:18] Grifasi, non ricordo il nome, lo
+[01:31:20] sbaglio sempre, per il depuratore
+[01:31:22] speriamo di aver messo un punto
+[01:31:24] rispetto a queste cose perché
+[01:31:26] non è necessario in questo modo
+[01:31:28] con la comunità. Ma un'altra
+[01:31:30] cosa che è stata detta e che
+[01:31:32] nobita, attenzione alla parte
+[01:31:34] mia e la parte nostra che va
+[01:31:36] puntualizzata, è il fatto che
+[01:31:38] è stato detto che questa
+[01:31:40] amministrazione non ha
+[01:31:42] progettualità. Nello specifico
+[01:31:44] è stato detto che non esiste
+[01:31:46] un solo progetto in questo
+[01:31:48] mandato che è ancora in corso
+[01:31:50] perché purtroppo sembra quasi
+[01:31:52] che siamo in campagna
+[01:31:54] di lavoro, due anni di serio lavoro
+[01:31:56] a portare avanti. E siamo detto
+[01:31:58] che non ci sono progettualità,
+[01:32:00] che campiamo di eredità,
+[01:32:02] ritorna il filo conduttore, tutto
+[01:32:04] suo, tutto fatto da lui,
+[01:32:06] tutto progettato da lui,
+[01:32:08] eccetera eccetera. In realtà
+[01:32:10] così non è. Fermo restando
+[01:32:12] che ci tengo a precisare di nuovo
+[01:32:14] per l'ennesima volta che in quell'amministrazione
+[01:32:16] c'eravamo anche noi, che
+[01:32:18] quelle progettualità
+[01:32:20] che sono state portate avanti
+[01:32:22] erano anche nostre. E che
+[01:32:24] con grande senso di responsabilità
+[01:32:26] abbiamo portato avanti
+[01:32:28] progettualità che magari alcune
+[01:32:30] erano ancora in fase embronale,
+[01:32:32] alcune richiedevano poi la fase
+[01:32:34] attuativa. E noi con grande senso di
+[01:32:36] responsabilità, vi farò degli esempi,
+[01:32:38] l'abbiamo portato avanti.
+[01:32:40] Così come ci sono progetti
+[01:32:42] che sono nostri, e ora vi farò
+[01:32:44] gli esempi, parlerò proprio dei progetti
+[01:32:46] perché magari la gente dice ma quali sono?
+[01:32:48] Non è giusto che la gente prenda quantezza.
+[01:32:50] E anche lì sarò schietta.
+[01:32:52] Sarò schietta e sincera perché
+[01:32:54] da parte mia,
+[01:32:56] da parte nostra, posto
+[01:32:58] di questo tipo, non ne vedrete mai.
+[01:33:00] Noi ringraziando
+[01:33:02] Dio riusciamo a distinguere
+[01:33:04] una scheda progettuale
+[01:33:06] da un progetto.
+[01:33:08] Riusciamo a distinguere un
+[01:33:10] finanziamento da un
+[01:33:12] finanziabile. E vi chiedo
+[01:33:14] veramente scusa. Mi state detto
+[01:33:16] che non so chiedere scusa, che non so
+[01:33:18] chiedere responsabilità. Vi chiedo scusa
+[01:33:20] perché addirittura mi sono
+[01:33:22] tra virgolette venduta
+[01:33:24] questo progetto, addirittura nel mio primo comizio
+[01:33:26] che abbiamo fatto in campagna elettorale,
+[01:33:28] davanti alla sede elettorale.
+[01:33:31] Altro finanzamento ottenuto,
+[01:33:33] 695 mila euro,
+[01:33:35] in pianistica sportiva.
+[01:33:37] Dopo il meraviglioso campo di calcio
+[01:33:39] finanziata tutta in pianistica sportiva
+[01:33:41] del presso scolastico comunale
+[01:33:43] contessa Maria Pedasi, a scuola
+[01:33:45] media, il sindaco Giovanni Battista
+[01:33:47] e il suo amico Luigi Nelli.
+[01:33:49] Ovviamente qui ritorna il fatto che era sempre solo lui
+[01:33:51] a fare le cose. Vi chiedo scusa
+[01:33:53] perché quel progetto è stato fatto
+[01:33:55] noi lo abbiamo pure aggiornato
+[01:33:57] ma non era finanziato, quel progetto
+[01:33:59] era stato utilmente messo
+[01:34:01] in gravatoria. Era un progetto
+[01:34:03] ammesso ma non finanziato.
+[01:34:05] E lì si vi chiedo scusa, mi è stato detto
+[01:34:07] che quando si sbaglia bisogna chiedere scusa.
+[01:34:09] Io lo faccio, perché
+[01:34:11] in quella campagna elettorale ho detto
+[01:34:13] che avremmo fatto quell'attività
+[01:34:15] questo progetto era stato finanziato. Invece non era così.
+[01:34:17] Per fortuna siamo riusciti
+[01:34:19] a intercettare somme minori
+[01:34:21] circa 60.000 euro
+[01:34:23] non è uguale
+[01:34:25] a questo progetto ma siamo riusciti a fare gli interventi
+[01:34:27] che hanno permesso di aprire i campetti
+[01:34:29] e ridonare ai nostri ragazzi.
+[01:34:31] Questa è la parte nostra non lo vedete mai
+[01:34:33] perché noi quando
+[01:34:35] ci viene finanziato qualcosa
+[01:34:37] ma ci resta il decreto, non ci deve essere
+[01:34:39] il post, lo slogan
+[01:34:41] noi in quel momento
+[01:34:43] abbiamo la cittadinanza che ci è stata finanziata qualcosa.
+[01:34:45] Prima non lo facciamo mai.
+[01:34:47] E i progetti ce ne sono.
+[01:34:49] Addirittura mi è stato detto
+[01:34:51] che siamo stati l'unici
+[01:34:53] che non hanno mai
+[01:34:55] non hanno utilizzato
+[01:34:57] il PNRL.
+[01:34:59] Così non è e ve lo voglio dimostrare
+[01:35:01] con sempre le carte.
+[01:35:03] Inizio proprio al di là del PNRL
+[01:35:05] che ci sono state una serie di progetti
+[01:35:07] fatti sul digitale.
+[01:35:09] 15 maggio 2024
+[01:35:12] quindi amministrazione Cascio
+[01:35:14] sarò cercata di essere veloce
+[01:35:16] per fare una carrellata
+[01:35:18] di quelle questioni di progettualità
+[01:35:20] sottolineando le date.
+[01:35:22] 15 maggio 2024
+[01:35:24] sottolineo amministrazione Cascio
+[01:35:26] il Ministero dell'Istruzione del Merito
+[01:35:28] pubblica un avviso PNRL
+[01:35:30] per la riconversione
+[01:35:32] di uffici esistenti da destinare da Silo Niro.
+[01:35:34] Non siamo rimosti a guardare.
+[01:35:37] L'ufficio techico di allora
+[01:35:39] si mette in moto
+[01:35:41] facciamo un progetto esecutivo
+[01:35:43] si acquisiscono tutti i pareri
+[01:35:45] riusciamo ad avere
+[01:35:47] quel finanziamento
+[01:35:49] un finanziamento di circa 560.000 euro
+[01:35:51] di cui 434.000 lavori.
+[01:35:53] Questi lavori sono stati consegnati
+[01:35:55] dopo le varie procedure amministrative
+[01:35:57] nel 2025.
+[01:35:59] Ci sono conclusi a giugno 2026.
+[01:36:01] Siamo nella fase in cui
+[01:36:03] abbiamo concluso
+[01:36:05] la rendicontazione
+[01:36:07] prevista per legge.
+[01:36:09] Siamo arrivando ad aprire le attrezzature
+[01:36:11] e a breve
+[01:36:13] apriremo il nido
+[01:36:15] comunale del comune di
+[01:36:17] Collesano. Questo è un progetto
+[01:36:19] nostro.
+[01:36:21] Abbiamo rimanche 24
+[01:36:23] quindi è un PNRL, la sfida l'ho vinta
+[01:36:25] già gli ho detto un progetto
+[01:36:27] del PNRL, la Silo Niro.
+[01:36:29] Poi qualcuno mi può dire
+[01:36:31] ma serviva proletamente
+[01:36:33] a Collesano la Silo Niro?
+[01:36:35] Probabilmente no, probabilmente sì.
+[01:36:37] Noi siamo però convinti
+[01:36:39] che siamo stati pronti.
+[01:36:41] Siamo stati responsabili.
+[01:36:43] Abbiamo grazie all'efficiatetto
+[01:36:45] nonostante le difficoltà che vi parlava all'inizio
+[01:36:47] fatto questo progetto, siamo riusciti
+[01:36:49] ad averlo finanziato.
+[01:36:51] A rendicontante vi assicuro che non è facile,
+[01:36:53] la gestione del PNRL non è semplice.
+[01:36:55] Doneremo a Collesano
+[01:36:57] una nuova struttura che speriamo
+[01:36:59] aiuti le famiglie che vedono
+[01:37:01] entrambi i genitori che lavorano.
+[01:37:03] Quindi siamo soddisfatti
+[01:37:05] e siamo contenti di esserci riusciti
+[01:37:07] e non vediamo l'ora di poterlo
+[01:37:09] rendere ai nostri cittadini.
+[01:37:11] 2025
+[01:37:14] facciamo sempre con l'efficiotecchio
+[01:37:16] un progetto, progetto
+[01:37:18] esecutivo.
+[01:37:20] Facciamo tutto leader, tecnica
+[01:37:22] e amministrativo. Ci viene finanziato
+[01:37:24] giugno 2025.
+[01:37:26] Quindi sempre questa amministrazione.
+[01:37:28] Non sarò a lineare con le date per donare,
+[01:37:30] mi vado un po' avanti e indietro,
+[01:37:32] ma per cercare di dire il più possibile.
+[01:37:34] L'assessorata di una struttura
+[01:37:36] e della mobilità ci finanza
+[01:37:38] 80 mila euro.
+[01:37:40] Questi soldi sono stati utilizzati per
+[01:37:42] interventi di riqualificazione
+[01:37:44] della rete di area costrurbana.
+[01:37:46] Con questi soldi siamo riusciti
+[01:37:48] a ripristinare le abilità
+[01:37:50] di contrata a croce e di
+[01:37:52] parti di contrata al Burji Futo.
+[01:37:54] Anche noi, la gestione ancora ultima intervento,
+[01:37:56] ci stiamo lavorando.
+[01:37:58] Questo è sempre un progetto fatto all'ufficio tecnico,
+[01:38:00] fatto da questa amministrazione
+[01:38:02] che è stato finanziato e che abbiamo già realizzato.
+[01:38:04] Sempre
+[01:38:07] nell'ambito delle strade.
+[01:38:09] Siamo riusciti
+[01:38:11] a avere sempre un progetto
+[01:38:13] fatto dall'ufficio
+[01:38:15] tecnico, quindi sempre questa
+[01:38:17] amministrazione. Siamo fine del 2024,
+[01:38:19] finanziato nel 2025,
+[01:38:21] 800 mila euro
+[01:38:23] sui fondi FSC.
+[01:38:25] Soldi che abbiamo utilizzato
+[01:38:27] per ripristinare le abilità
+[01:38:29] di buona parte di strada
+[01:38:31] interna del centro urbano, di tante contrade.
+[01:38:33] Contrata Comune,
+[01:38:35] Contrata Arivuzia, Contrata San Basilio,
+[01:38:37] Favara.
+[01:38:39] È sempre un progetto di questa amministrazione,
+[01:38:41] è sempre un progetto di questo ufficio tecnico.
+[01:38:43] Sempre ragazzini che non hanno fatto
+[01:38:45] niente e che non hanno progetti.
+[01:38:47] Non l'abbiamo ripetato da lei, nonostante
+[01:38:49] si fosse informato rispetto al fatto che fosse
+[01:38:51] una sua progettualità.
+[01:38:54] Altro progetto sempre per le strade.
+[01:38:56] Siamo sempre
+[01:38:58] all'ufficio tecnico comunale, nonostante
+[01:39:00] le strade che erano le di sicurità oggettile.
+[01:39:02] Un altro progetto di
+[01:39:04] quasi 150 mila euro.
+[01:39:06] Un progetto che
+[01:39:08] è stato finanziato dall'ESA,
+[01:39:10] lente di sviluppo agricolo,
+[01:39:12] che è stato concluso da pochi giorni,
+[01:39:14] che ci ha permesso di ripristinare
+[01:39:16] le abilità di circa un chilometro e sette
+[01:39:18] di strada su
+[01:39:20] blanci di genere.
+[01:39:22] La strada che porta, che dà l'accesso
+[01:39:24] oltre a tante residenze,
+[01:39:26] alla torretta della forestale.
+[01:39:28] Noi avevamo fatto dei piccoli interventi,
+[01:39:30] ma anche il dottore Pedotti,
+[01:39:32] che è una persona onesta
+[01:39:34] e ovviamente sempre
+[01:39:36] che ci ha sempre supportato, ci aveva chiesto appunto
+[01:39:38] un intervento, perché la strada era
+[01:39:40] oggettivamente
+[01:39:42] disagiata.
+[01:39:44] E aggiungo, rispetto a questo, abbiamo fatto
+[01:39:46] un chilometro e sette, ma
+[01:39:48] già sempre questo ufficio tecnico
+[01:39:50] e sempre questa amministrazione
+[01:39:52] ha già preparato
+[01:39:54] un progetto
+[01:39:56] di circa 150.000 euro
+[01:39:58] per continuare l'obiettivo
+[01:40:00] continuare quella strada, però è un po' differente questo progetto perché quello che abbiamo concluso, quindi sempre questa amministrazione,
+[01:40:10] prevereva un intervento straordinario, in manto stradale, seppur compromesso c'era. La restante parte che vogliamo fare,
+[01:40:17] poi speriamo arrivare fino alla torretta, è strada stellata. Abbiamo sempre l'ufficio tecnico a questa amministrazione fatto il progetto,
+[01:40:26] era necessario usare la sopindendenza che già è arrivato, stiamo procedendo con la provozione in linea tecnica, in linea amministrativa
+[01:40:33] e appena uscirà il nuovo bando dell'ESA, ci è data notizia, brevissimo, in questi giorni saremo pronti e non ci faremo trovare impreparati
+[01:40:41] per poter cogliere questa opportunità. Ancora, abbiamo trasmesso circa settimana scorsa un progetto sempre per la viabilità del comune di Collesano
+[01:40:51] per continuare a intervenire su strade del centro urbano di 140.000 euro, abbiamo già fatto il progetto, sempre per l'ufficio tecnico,
+[01:41:02] sempre per questa amministrazione, abbiamo già fatto l'approvazione in linea tecnica, l'approvazione in linea amministrativa
+[01:41:08] e già abbiamo trasmesso tutto all'assessorato per il finanziamento. Sempre nell'ambito strade abbiamo ottenuto il finanziamento
+[01:41:19] nel 4 dicembre 2025, da parte dell'assessorato del Generali di Infrastruttura e Mobilità, un finanziamento di 30.000 euro,
+[01:41:27] questi sono soldi per la progettazione che abbiamo già affidato a, ovviamente, professori sistemi, questo per dotare il comune di Collesano
+[01:41:38] Siamo riusciti, con queste solde, a dare in calco al professionista per permettere di avere questo progetto esecutivo,
+[01:41:48] ottenuto il quale faremo sempre leader, che vi ho spiegato poco fa, in provazione tecnica amministrativa
+[01:41:54] e appena ci saranno le nostre progetti esecutivi, ci saranno le nostre progetti esecutivi,
+[01:42:02] ottenuto il quale faremo sempre leader, che vi ho spiegato poco fa, in provazione tecnica amministrativa
+[01:42:07] e appena ci saranno una linea di finanziamento utile saremo pronti e non ci faremo trovare preparati per presentare questo progetto.
+[01:42:17] Altro progetto nostro, lo dico sempre, è un progetto del maggio 2025, anche lì il progetto fatto dal nostro Sfice Tecnico, da questa amministrazione,
+[01:42:29] preciso, perché io sono sempre onesta, si tratta di un progetto di fattibilità economica, che stiamo provvedendo a trasformare a un livello successivo,
+[01:42:38] perché siamo a livelli di progettazione, è un primo livello, ma già abbiamo ottenuto pure i barelli la sua tendenza,
+[01:42:45] si tratta di un progetto che prevede la di qualificazione dell'area delle case popolari, le case popolari come sapete è una zona un po' degradata,
+[01:42:55] quindi è un progetto che prevede il rifacimento della parte esterna, quindi il parcheggi, la zona verde, la zona di marciolieri,
+[01:43:03] panchina e sestimazione anche di quelli che sono le nostre case popolari a livello esterno. Questo progetto, ripeto, è un progetto di fattibilità tecnico-economica,
+[01:43:12] ma già abbiamo partecipato all'avviso pubblico e all'assessorato regionale delle infrastrutture e la mobilità, non prevedevo livello esecutivo per poter partecipare,
+[01:43:22] quindi abbiamo partecipato a questo avviso, ad oggi non sappiamo ancora l'esito, quindi non possiamo dire se è finanziato,
+[01:43:29] ma quello che posso dire è che abbiamo questo progetto, sempre questo ufficio tecnico, questa amministrazione, l'abbiamo già presentato,
+[01:43:36] stiamo lavorando per portarlo a livello di progettazione successivo, esteremo pronti, ma allora questo avviso non dovesse andare in porto per presentarlo sul nostro livello di finanziamento.
+[01:43:46] Ancora, grazie anche a una collaborazione con il GAL Madonie, abbiamo avuto la possibilità di avere un tecnico per qualche periodo di tempo,
+[01:43:56] questo tecnico gli abbiamo chiesto di fare un progetto di fattibilità tecnico-economica che riguarda contrara scaletta,
+[01:44:04] è sempre un progetto nostro, progetto che stiamo provverendo a trasformare a livello successivo di progettazione,
+[01:44:11] non l'abbiamo ancora presentato, sono nessuna linea di finanziamento perché non le sono uscite ed atte,
+[01:44:16] ma anche lì è un progetto che ha come obiettivo di qualificare quella zona ed è in linea con quello che abbiamo detto in campagna dottorale.
+[01:44:24] Ancora, efficientamento Palazzo Comunale, progetto di questa amministrazione, un milione e mezzo circa,
+[01:44:33] è un progetto che ha fatto senso l'effigio tecnico, abbiamo semplicemente affidato la diagnosi energetica a un esperto vestendo,
+[01:44:42] è un progetto che ha come obiettivo quella della sostituzione degli indizi, delle caldà e dei riscaldamenti,
+[01:44:48] anche quello dell'obiettivo oltre proprio dell'utilità, perché le finestre sono finestre che ormai sono dotate, anche quello dell'esponente energetico.
+[01:44:55] Anche questo è un progetto di livello esecutivo, è un progetto fatto sempre da questa amministrazione,
+[01:45:01] che ha avuto riguardo anche alla Casa Comunale e che già abbiamo presentato su un avviso della regione siciliana FSC 2127.
+[01:45:12] In questi giorni sono state richieste delle integrazioni, perché stanno attenzionando questi progetti, capiremo e vi informeremo nel momento in cui verrà finanziato o meno,
+[01:45:23] ma saremo comunque in condizioni di poter partecipare su un altro mio finanziamento.
+[01:45:27] Fosmit, Fosmit è il fondo per lo sviluppo delle montagne italiane, anche lì io sono onesta, delle somme che vengono preassegnate ai comuni,
+[01:45:37] ma l'affatto che vengono preassegnate non vuol dire nulla, nel senso che se ha la preassegnazione e la risorsa il comune poi non fa quello che deve fare,
+[01:45:46] che significa fare il progetto, fare quello a livello amministrativo che serve, non è detto che queste somme preassegnate vengono date al comune.
+[01:45:55] Noi abbiamo invece ottenuto queste somme, sono circa 60.000 euro che sono state utilizzate per,
+[01:46:03] e quindi questo progetto è sempre stato fatto all'ufficio tecnico, ma già si è concluso, somme che abbiamo utilizzato per rifare i nostri campetti.
+[01:46:12] Ovviamente non è stato l'intervento come quello di 700.000 euro di cui si parlava poco fa, che non è mai stato finanziato,
+[01:46:19] non è un intervento che ha permesso comunque di restituire ai nostri ragazzi i campetti.
+[01:46:25] Sempre Fosmit, abbiamo intercettato altre 47.000 euro, un'altra mia intervento che ha permesso la polizia e il torrente moro, l'avete visto, abbiamo concluso il lavoro da poco,
+[01:46:36] cosa che non veniva fatta non so quanti anni.
+[01:46:39] Fetto rispetto ai torrenti, quando siamo arrivati c'era un'attività iniziata dalla recente amministrazione rispetto al torrente zubbio,
+[01:46:46] l'attività è stata ripresa, abbiamo rifatto la convenzione a quant'altro e nel 2023 abbiamo fatto quell'intervento anche allo zubbio.
+[01:46:55] Altri progetti, proprio perché l'amministrazione che non lavora, l'amministrazione che non ha prospettiva, che non progetta,
+[01:47:05] abbiamo affidato a un professionista esterno la progettazione di una struttura polivalente per campo da basket,
+[01:47:19] quindi una riqualificazione delle strutture adiocentrati e sportive alla regge della scuola media,
+[01:47:29] con una copertura dello stesso campo da basket per poter destinare questa struttura ad attività polivalente.
+[01:47:37] Anche qui il progetto è di livello esecutivo, abbiamo già ottenuto il parere sia dell'ansia e della sobretendenza, ma soprattutto il parere del coni.
+[01:47:46] Quindi questo è un progetto sempre di questa amministrazione, è un progetto sempre di questo ufficio tecnico,
+[01:47:52] che è pronto, perché ancora non è uscita la linea di finanziamento, per provare a raggiungere, ad avere il finanziamento.
+[01:47:59] Castello, Castello noi c'è un'attività che era stata fatta alla paciente amministrazione,
+[01:48:05] noi proprio perché, per quel principio che vi dicevo, quello che c'era da continuare responsabilmente questa amministrazione lo ha portato avanti,
+[01:48:14] Castello sono terminati i lavori, che ovviamente sono stati controllati, sono stati seguiti da questo ufficio tecnico, da questa amministrazione,
+[01:48:22] ma non solo, poi prima della riapertura si sono innestati anche i lavori dell'illuminazione artistica,
+[01:48:29] che sono stati completati, che abbiamo seguito e che oggi ci hanno permesso di poterlo aprire.
+[01:48:35] E vi devo assicurare che, per mettere l'apertura e la fruibilità, perché noi facciamo parte anche l'ATS Castelli,
+[01:48:40] per far sì che quella partecipazione a quella consorzio fosse effettiva, ma soltanto sulla carta,
+[01:48:47] è stato uno sforzo che abbiamo volutamente fatto per permetterne l'apertura costante.
+[01:48:53] Parliamo sempre di TNR, parliamo del nitrico.
+[01:48:57] In questo caso c'era un progetto iniziato dalla vecchia amministrazione, grazie sempre a Sosvima,
+[01:49:02] che ha riguardato, i 14 comuni si hanno guardati, che per il comune di Collesano prevedeva un importo di 1 milione e 800 euro.
+[01:49:10] Questo finanziamento inizia con la precente amministrazione.
+[01:49:18] Noi lo portiamo avanti, perché al diare alla fase di intercettare i finanziamenti,
+[01:49:24] poi questa amministrazione ha seguito Rumioni, Paoli Tecchi, ci sono state molte criticità.
+[01:49:30] Ma siamo stati noi a seguire i lavori che hanno permesso la sostituzione dei contatori,
+[01:49:35] i lavori che hanno permesso anche la sostituzione dei tratti di rete idrica,
+[01:49:40] è stata sostituita una trattola rete idrica al Suomalazzo, un trattola rete idrica alla Roca,
+[01:49:46] e poi in questi giorni avete visto è stata sostituita la rete idrica in Vierinelli.
+[01:49:52] Abbiamo preteso che venisse asportata l'intera strada, non soltanto il tratto di intervento.
+[01:49:57] Ma rispetto al lingo, l'altra cosa importante che...
+[01:50:00] che abbiamo fatto. La vecchia amministrazione si era dotata grazie all'ingegnere Stagno
+[01:50:04] di un progetto per quanto riguarda il rifacimento di 6 milioni di euro. Capito bene che 6 milioni
+[01:50:10] di euro è un progetto improponibile rispetto al live finanziamento che spesso prevede
+[01:50:17] una dotazione finanziaria per la regione sicile di 15-20 milioni di euro totale.
+[01:50:22] Quindi un progetto che da solo prende una parte di 6 milioni è difficile da piazzare.
+[01:50:28] Noi ci stavamo muovendo per l'approvazione tecnica e per l'approvazione amministrativa,
+[01:50:32] ma insieme ai tecnici, insieme all'ufficio, insieme all'ingegnere Stagno, abbiamo deciso
+[01:50:37] di dividere i lotti funzionali col progetto da 6 milioni. Lo abbiamo diviso in tre lotti
+[01:50:42] funzionali. Il primo e il secondo lotto sono stati già approvati, verificati dalla
+[01:50:50] struttura tecnica dell'Unione, visto l'importo, li abbiamo già approvati all'ufficio,
+[01:50:55] andiamo a stare alla struttura tecnica, l'ha approvati tecnicamente. Abbiamo già fatto
+[01:50:59] l'approvazione in linea amministrativa e rispetto al primo lotto lo abbiamo
+[01:51:04] addirittura già presentato sull'allineo di finanziamento che si è aperta a marzo 26,
+[01:51:10] l'allineo di finanziamento della regione siciliana di partimento dell'energia,
+[01:51:14] per il tramite sempre dell'AZ, l'abbiamo già presentato. Non abbiamo notizia
+[01:51:18] di essere oggi se questo finanziamento ci verrà dato meno, ma noi abbiamo fatto il
+[01:51:23] nostro. Rispetto al terzo lotto, l'ingegnere a giorni lo consegnerà all'ufficio in modo
+[01:51:31] tale che si possa procedere anche per questo lotto in questi termini. Questo è sempre
+[01:51:36] perché non abbiamo progetti, questo è sempre perché siamo incompetenti, questo è sempre
+[01:51:41] perché non capiamo le realesigenze nella nostra comunità. Rispetto all'edifico, oltre
+[01:51:48] a questo rialberto, abbiamo fatto noi con i soldi all'avanzo molti interventi
+[01:51:52] importanti su quelle che erano proprio la reddita edifica per migliorare i servizi
+[01:51:57] e non solo. Poi abbiamo affrontato quella che è stata un'emergenza seria, la crisi
+[01:52:01] edica, l'abbiamo fatto cercando di non lasciare indietro nessuno. Tra le cose che
+[01:52:06] voglio segnalare, vado un po' veloce che capisco che tra il freddo, tra gli argomenti, la gente
+[01:52:12] un po' si è staccata, quindi cerco di essere un po' più fragile. Abbiamo ottenuto dalla
+[01:52:17] potenzia civile, sempre grazie alla progettualità, sempre al fatto che ci siamo
+[01:52:22] alzati dalla serie, siamo andati di presto gli organi competenti a chiedere quanto
+[01:52:26] ci serviva, siamo riusciti ad avere circa 160.000 euro che ci sono serviti
+[01:52:32] per il Pozzo Genello Pigno che abbiamo fatto. Siamo riusciti sempre per questo
+[01:52:38] sfruttando l'emergenza, a dotare il comune di Collesano di una nuova Autobot.
+[01:52:44] Siamo riusciti a efficientare il sistema di avvertura e chiusura delle
+[01:52:50] nostre, dei nostri pozzi. Abbiamo montato le valvole intelligenti che
+[01:52:55] hanno permesso di, ai nostri dipendenti di non perdersi, oltre di
+[01:53:00] modernizzare gli impianti, di non perdersi facendo avanti e indietro per l'avvertura
+[01:53:04] e chiusura dei nostri appadotti, ma in questo modo, con queste valvole
+[01:53:08] intelligenti, questo è stato un investimento sempre di questa
+[01:53:11] amministrazione, siamo riusciti a controllare universamente, a gestire il
+[01:53:16] servizio in maniera più efficiente. Siamo intervenuti sul tanto perdito e questo
+[01:53:21] ci ha permesso, perché come sapete non lo scopriamo oggi, la nostra rete
+[01:53:25] idrica è fatiscente, siamo riusciti con questi interventi a recuperare
+[01:53:30] complessivamente cinque ore di acqua al giorno. Tre ore l'abbiamo recuperato dal
+[01:53:34] sistema dei Pozzi Mora, due ore l'abbiamo recuperato invece dal sistema
+[01:53:39] dei Pozzi Pigno. E' sempre in maniera nell'ambito idrico, sempre soldi fosuit,
+[01:53:45] abbiamo sfruttato questi soldi che ci sono stati appresegnati, ma anche lì
+[01:53:49] facendo la progettualità e presentando quello che andava
+[01:53:52] presentato, abbiamo sfruttato questi ulteriori circa 47 mila euro per andare
+[01:53:59] ad installare un sistema efficiente di apertura e chiusura delle nostre fontane.
+[01:54:04] L'obiettivo è quello di permettere di aprire le fontane H24, ma evitare
+[01:54:09] anche che ci sia uno spreco di acqua. Ci stiamo lavorando, il decreto di
+[01:54:15] adesso, già l'avamo detto anche in altro posto, rispetto alla nostra fontana
+[01:54:19] stiamo attenzionando una beppe che ancora non siamo riusciti a trovare.
+[01:54:24] CCR, il Centro Comunale di Rancorta, anche questo è un PNRF, un progetto della
+[01:54:30] vecchia amministrazione di cui c'eravamo anche noi, lo risoccio lino,
+[01:54:34] anche questo è un progetto che noi, l'amministrazione precedente, avevano
+[01:54:38] intercettato, si era preso un punteggio in più, perché da realizzare su un
+[01:54:42] bene confiscata la mafia, anche lì noi abbiamo continuato l'attività che
+[01:54:47] andava continuata. Abbiamo superato non pochi ostacoli, perché quando c'è stato
+[01:54:52] asseminato questo finanziamento, era necessario fare una variante, perché quel terreno
+[01:54:57] era un terreno a destinazione agricola e doveva essere necessariamente fatto
+[01:55:01] una variante al PRG. Abbiamo fatto questo, abbiamo continuato l'attività
+[01:55:05] amministrativa, mentre il Mase, che era il soggetto che dava la somma,
+[01:55:09] ha accannato il soggetto beneficiario, che non era più il Comune di Collesano,
+[01:55:13] ma va essere reale, sono stati una serie di ostacoli burocratici amministrativi a superare,
+[01:55:18] i lavori sono iniziati, hanno avuto un rallentamento, ha avuto una proroga
+[01:55:23] proprio perché ci sono state le piogge inconsistenti, ma questo lavoro
+[01:55:27] stiamo seguendo come gli altri. Ancora altro progetto che abbiamo fatto,
+[01:55:33] un progetto esecutivo parierato, fatto sempre da questo ufficio, da questa
+[01:55:36] amministrazione, la riqualificazione dell'immorbido e dell'ex macello
+[01:55:41] in piazzetta San Calodro, un progetto che già ha visto ottenere i pareri
+[01:55:46] nell'arspe, la domenare ai pareri necessari, quindi un progetto già esecutivo e
+[01:55:50] canterabile, che ha contorzi la quota di andare a riqualificare quella struttura
+[01:55:55] come un punto di riferimento della protezione civile e del volontariato,
+[01:55:59] quindi un vuolo emergenza e gestione di protezione civile.
+[01:56:04] Ancora abbiamo fatto sempre quell'ufficio tech, quindi sempre progetti
+[01:56:09] di questa amministrazione, un progetto per difattibilità tecnico-economica, lo stiamo
+[01:56:14] portando a livello successivo, per la messa in sicurezza del rischio
+[01:56:19] ideologico della vittoria Santa Maria di Gesù. Questo l'abbiamo presentato, ad oggi
+[01:56:25] non abbiamo avuto ancora notizie ufficiali rispetto a finanziamenti o
+[01:56:29] nero. Abbiamo, rispetto alle scuole, rispetto alle scuole la
+[01:56:34] presenta amministrazione, aveva affidato, venne in carica a progettisti esterni per dotarsi di
+[01:56:39] progettazioni, era una progettazione definitiva che stiamo facendo diventare
+[01:56:44] progettazioni esecutive. Rispetto alla scuola di via delle
+[01:56:48] chiere, già il progetto è stato consegnato, lo abbiamo approvato e
+[01:56:53] addirittura su quello abbiamo già provato a piazzarlo su una linea di
+[01:56:57] finanziamento. Quanto riguarda la scuola dell'infanzia di via in era
+[01:57:02] abbiamo approvato, portato a livello di progettazione esecutiva, lo
+[01:57:08] abbiamo presentato su una linea di finanziamenti alla protezione civile che
+[01:57:12] non è andata a buon fine, come vedete io ve le racconto le cose, non è andata a
+[01:57:16] buon fine, ma non ci siamo persi d'animo, quel progetto esisteva, era
+[01:57:20] esecutivo, era già cantierabile, quindi era approvato e abbiamo
+[01:57:24] immediatamente aperto una nuova possibilità con una linea di finanziamenti
+[01:57:28] che era parte del Dipartimento Casa Italia, dipartimento per le politiche di coesione per il Sud,
+[01:57:33] abbiamo immediatamente provato a piazzarlo lì. Rispetto alle scuole, abbiamo fatto
+[01:57:39] l'intervento sulla parte esterna della scuola dell'infanzia, abbiamo presentato
+[01:57:44] un progetto sempre con l'ingegnere Visconti, l'ingegnere Gilgall, abbiamo
+[01:57:49] realizzato sempre noi un progetto di fattibilità economica per la
+[01:57:54] riqualificazione della palestra della scuola media, abbiamo già presentato questo
+[01:57:59] progetto, ad oggi non abbiamo ancora notizie se è stato finanziato o meno,
+[01:58:03] quel progetto prevede oltre i lavori proprio di struttura della palestra, anche
+[01:58:09] l'acquisto nell'Inter del 10% di attrezzatura per quella palestra,
+[01:58:13] abbiamo presentato anche un progetto, abbiamo sempre fatto l'ufficio
+[01:58:18] tecnico, sempre questa amministrazione, un progetto di circa 150 mila euro per
+[01:58:23] rifacimento dell'area esterna della scuola elementare, per permettere ai
+[01:58:26] ragazzi di avere una possibilità di sfruttare quello spazio esterno.
+[01:58:32] SNAI, voi dite cos'è questa SNAI? Strategia nazionale ed interna, sono dei
+[01:58:37] soldi che ci vengono assegnati come comuni per quanto riguarda la
+[01:58:41] strategia nazionale ed interna. La vecchia amministrazione, la propria
+[01:58:44] dotazione di circa 760 mila euro, la aveva totalmente destinata per quello
+[01:58:49] che era il museo delle ceramiche e le ex fornaci. Noi appena insediati, ricordo
+[01:58:53] Marlion e Appollina, abbiamo immediatamente confermato quella scelta
+[01:58:58] perché abbiamo continuato quel percorso importante sulla ceramica,
+[01:59:02] abbiamo investito nella ceramica, quindi questo per dimostrargli che
+[01:59:06] questi bambini non hanno mai fatto scelte per i picchi e personale o
+[01:59:11] quello che andava continuato, seriamente lo abbiamo portato avanti.
+[01:59:16] Oggi, mi dico lo stato delle cose oggi, dopo la serie interlocuzione, l'Unione
+[01:59:21] dell'Emanomia, che è il soggetto attuale, è diventato organismo intermedio, siamo
+[01:59:27] nella fase che a breve verranno messi i decreti e nel momento in cui abbiamo
+[01:59:33] fatto un'unione qualche settimana fa, messi i decreti, inizieranno i
+[01:59:38] lavori e addirittura c'è un template che prevede che entro dicembre 26
+[01:59:44] già circa 165 mila euro rispetto alla dotazione di 760 mila euro vengano
+[01:59:49] spesi, questo vuol dire che quella attività importante rispetto al Museo
+[01:59:53] della Ceramica l'abbiamo continuata, aggiornando il progetto e che c'era un
+[01:59:57] progetto megagalattico che preveva anche delle cose
+[02:00:00] l'abbiamo dovuto ristringerlo alle vecchie fornaci, abbiamo ottenuto i pareri che necessitavano
+[02:00:07] nuovamente perché il progetto era stato sistemato e quindi era adeguato, l'ultimo l'ASPE l'ha
+[02:00:13] mandato a maggio, trasmesso tutto e quindi aspettiamo questo decreto per poter far sì
+[02:00:17] che iniziano questi lavori, ma allo stesso tempo avendo destinato tutta la nostra somma
+[02:00:22] al Museo della Ceramica siamo comunque riusciti a inserirci anche il progetto Mobilità
+[02:00:27] Lenta che gli altri comuni avevano portato avanti e comunque avremo rispetto a quella
+[02:00:34] che è questa Mobilità Lenta, la valorizzazione anche delle itinerari turistici e installeremo
+[02:00:40] una mini dike station vicino alla zona mercatale con le collomine alle ricariche, biciclette
+[02:00:45] elettriche e quant'altro, abbiamo rispetto a questi progetti abbiamo fatto anche
+[02:00:53] poi al cimitero, il cimitero deve essere veloce perché è tardi e quando va del cimitero
+[02:01:00] abbiamo fatto dei lavori grazie all'avanzo che hanno permesso di una situazione che
+[02:01:05] aveva iniziato anche la vecchia amministrazione che aveva già proceduto facendo dei nuovi
+[02:01:10] loculi, quelli abbiamo continuato a fare e abbiamo realizzato altri 120 loculi,
+[02:01:16] stiamo perché è una situazione che va attenzionata spostando traslando appena passerà l'estate
+[02:01:24] le salme che sono in deposito presso i nostri nostri compratenti e procederemo poi alle
+[02:01:29] stimolazioni per far sì che tutti possano avere una degna sepoltura, illuminazione
+[02:01:34] pubblica, anche lì noi siamo intervenuti perché a differenza di quello che si è
+[02:01:40] detto noi a dirà delle cose giornaliere che facciamo, come avete visto abbiamo continuato
+[02:01:47] quando andava continuato l'importante, abbiamo progettato altro, ci siamo focalizzati
+[02:01:52] su quello che nelle strade che era troppo tempo non state abbandonate necessitavano
+[02:01:56] gli interventi, abbiamo attenzionato l'aspetto illico e anche l'illuminazione non scordando
+[02:02:02] proprio progetti importanti come quello di la struttura polivalente, le case popolari
+[02:02:06] come la struttura al macello, ancora alla funeria non ci siamo arrivati, probabilmente ci
+[02:02:12] arriveremo. L'illuminazione pubblica, il progetto che sentivo dire è mio e in realtà è un vecchio
+[02:02:21] progetto per risposta della sospima nell'ambito della strategia nazionale areterne che prevedeva
+[02:02:27] la sostituzione dei corpi illuminati di tutto il paese, quel progetto per difficoltà non
+[02:02:33] nostra, non della sospima, non dell'unione purtroppo non andò a buon fine fino a un certo punto, è stato
+[02:02:41] rifinanziato nel 2023 ma noi già c'eravamo mossi perché ovviamente bisognava efficientare al di là
+[02:02:47] della bellezza e dell'efficientamento per ridurre i costi a cali quel comune, vi posso dire che i costi
+[02:02:53] sono diminuiti notevolmente e meno male perché mentre sono aumentati i costi del gas quindi
+[02:02:58] noi abbiamo dovuto rimodulare quel progetto con quelle somme di cui si parlava il precedente
+[02:03:04] comizio, noi abbiamo efficientato la zona del centro storico, area castello, zona di un mitrofo
+[02:03:10] per un totale di circa 300 punti luce. Tutto il resto, per un restante avevo spiegato che era un
+[02:03:16] progetto SNAI, un progetto con sospima che era stato perso, è stato ripreso, tutto il resto tra il 2024 e il 2025
+[02:03:24] l'abbiamo efficientato sempre noi, progettualità sempre di questo ufficio tecnico, progettualità sempre
+[02:03:30] di questa amministrazione, ci ha permesso con questi 100 mila euro che abbiamo trovato esternamente
+[02:03:37] non gravando sul bilancio del comune, abbiamo efficientato l'intera pubblica illuminazione del
+[02:03:42] nostro comune e non solo, questo ci ha consentito di risolvere la problematica che era rimasta
+[02:03:52] sempre non risolta per il borgo gammisini che abbiamo efficientato, così come sono stati messi dei
+[02:03:58] corpi illuminanti con pannello solare, sia in controda la croce che finalmente abbiamo illuminato,
+[02:04:04] in controda la gatto che abbiamo illuminato. Pnmetro plus, parlo di acronomi che magari non
+[02:04:10] conoscete, un'altra linea di finanziamento, il comune di Collesano aveva, per indenderci, la linea di
+[02:04:17] finanziamento della piazza di Campoforice che sta destando molte perpestità e preoccupazioni,
+[02:04:22] anche lì c'era un po' una progettualità che noi abbiamo mantenuto, sono poi cambiate le carte
+[02:04:28] in revoa durante quella che era la fase amministrativa e noi pur di non perdere quelle
+[02:04:37] somme abbiamo predisposto, dando un'incarica a un soggetto esterno, l'architetto Mingher,
+[02:04:43] abbiamo predisposto un progetto esecutivo per il recupero ed adeguamento funzionale di una area di Palazzo Fatta,
+[02:04:50] la nostra parte di Palazzo Fatta, la destinata sala polifunzionale, l'office di informazione
+[02:04:56] turistica. Io avrei ancora tanto altro, il giardino sensoriale 50.000 euro che abbiamo
+[02:05:05] sempre progettato noi e che adesso abbiamo affidato i lavori, il pacco i giochi che abbiamo fatto e
+[02:05:11] ci sono tante altre cose, tanti sono i finanziamenti che siamo riusciti a intercettare. Questo capendo
+[02:05:19] anche l'orario mi avvio alla conclusione, perché tante le cose sono state fatte e questo ha
+[02:05:24] dimostrato questa sera, come vedete, che non c'è stata un'amministrazione che è stata ferma,
+[02:05:30] tutto si può dire tranne di un'amministrazione che non ha continuato con le attività che
+[02:05:37] andavano continuate, con le progettualità importanti ma non per un sindaco piuttosto che
+[02:05:43] per l'altro sindaco, progettualità importanti per l'intera comunità. Non solo, abbiamo progettato
+[02:05:52] col PNLR, abbiamo dei progetti nostri. Consentitemi prima di avviarmi però alla
+[02:05:58] chiusura di dire un'altra cosa. Siamo stati definiti ragazzini perché non sappiamo amministrare
+[02:06:08] e io non ho almeno la prosinzione di dire che lo sappiamo fare, sarete voi cittadini a
+[02:06:12] dire quando sarà il momento se siamo stati bravi, se lo siamo stati poco, se potremmo
+[02:06:18] fare di più. Ma addirittura sono tanti i lavori che abbiamo fatto, siamo stati quasi
+[02:06:26] presi in giro quando dicendo che buttavamo fumo negli occhi dell'agente perché ci occupiamo
+[02:06:33] anche di Miss Mollo, ci occupiamo anche di Targaflore, ci occupiamo anche di Carnevale,
+[02:06:38] addirittura è stata tirata in ballo anche la festa della Madonna. E io qui voglio dire
+[02:06:43] solo due parole e poi mi avvio veramente la conclusione. Noi siccome viviamo con
+[02:06:49] l'esano, la viviamo ogni giorno quotidianamente, conosciamo i problemi reali di con l'esano
+[02:06:54] e su quelli stiamo intervenendo, con progettualità che stiamo continuando, progettualità
+[02:06:59] nuove, strade, acqua, pubblica alluminazione, ma altrettanto con orgoglio
+[02:07:05] vendichiamo di avere investito anche sulla nostra identità, la Targaflore. Ma come
+[02:07:10] si fa a dire che non è stato corretto investire sulla Targaflore? Noi eravamo rimasti
+[02:07:14] esclusi dalla Targaflore pur avendo un museo importantissimo, l'unico riconosciuto
+[02:07:19] in Sicilia, museo del quale abbiamo intenzione ovviamente preoccuparci. La Targaflore è
+[02:07:24] tornata nel 2025 grazie a noi, grazie al vice sindaco che si è inventato la prova
+[02:07:29] speciale Monte d'Oro. Nel 2026 siamo diventati ancora più centrali, parco chiuso, parco
+[02:07:35] assistenza, partenza delle storiche. Quindi noi lo vendichiamo perché anche quello
+[02:07:40] serve a con l'esano, serve la buca riparata, serve la strada, serve l'impianto
+[02:07:45] dell'alluminazione, ma serve anche quello. Il carnevale, bravi, sì lo dico, perché abbiamo
+[02:07:50] portato il carnevale e continueremo a farlo a livello importante, anche il carnevale
+[02:07:54] e identità, così come la identità alla ceramica. Noi abbiamo continuato
+[02:07:59] quell'attività importante che era arrivata grazie a Mariano Ferrarello,
+[02:08:03] lo vedo ancora avanti, l'allora vice sindaco era riuscita a ottenere il riconoscimento
+[02:08:07] di città alla ceramica. Da lì si è aperto il mondo che noi con dignità, con
+[02:08:13] responsabilità abbiamo portato avanti, perché abbiamo fatto gli atti, non solo più parole
+[02:08:18] dopo il riconoscimento di città alla ceramica per essere, per far parte di ACC, l'Associazione
+[02:08:23] italiana di città alla ceramica. Abbiamo con gli altri 5 città alla ceramica costituito
+[02:08:28] le strade della ceramica, il passaporto della ceramica. Abbiamo portato ovunque,
+[02:08:33] poi ognuno può valutare le mie competenze come meglio preve, la ceramica con l'esano
+[02:08:38] a New York, alla Vita, al Salone del Mobile, all'Assemblea Rituale siciliana.
+[02:08:43] E addirittura fare tanti come finanziamenti, non ho il tempo di poterlo dire,
+[02:08:47] finanziamenti perché noi quando, e ci siamo riusciti adesso, stiamo gravando
+[02:08:52] il meno possibile sul bilancio comunale che è un bilancio sano, è un bilancio
+[02:08:56] che gli altri comuni ci invigliano, ma noi cerchiamo di fare tutto questo
+[02:09:00] trovando le somme al trovo. E addirittura si è fatta ironia anche sulla
+[02:09:04] festa della Madonna. Io, permettetevi, io lì veramente mi arrendo e sorrido
+[02:09:09] perché non mi rimane altro. Addirittura criticare se l'assessore o tutti
+[02:09:15] ci impegniamo anche per la riuscita della festa della Madonna, anche quello
+[02:09:18] lo rivendichiamo con orgoglio, perché è identità, è appartenenza. Poi se qualcuno
+[02:09:25] superato il periodo del Covid, quando non abbiamo potuto fare i festeggiamenti,
+[02:09:30] ha deciso di farsi il viaggio in moto come sempre, non sono problemi nostri,
+[02:09:34] io e la mia giunta abbiamo continuato a fare quello che andava fatto. E così
+[02:09:39] continueremo a fare con Miss Simondo, continueremo a fare con le sagre,
+[02:09:43] perché capite bene che una comunità, un comune, le attività commerciali
+[02:09:48] hanno necessità anche di quello. Io chiudo veramente, io penso di aver
+[02:09:54] con estrema chiarezza, sincerità, con le carte, parlato di alcuni
+[02:10:00] i temi importanti sui quali spero nessuno abbia più voglia di tornarci, perché sono stati
+[02:10:07] chiariti non soltanto la tiziana Cascio, le altre persone che sono intervenute questa
+[02:10:11] sera con parte e con carte. Spero di avervi dato gli strumenti per poterli veramente
+[02:10:17] valutare e fargli un vostro libero pensiero, perché io ho la storiella che con l'esano
+[02:10:23] teme di sentire questo sindaco orribile, che non sorride mai, che non saluta, che
+[02:10:27] non si tratta di un rapporto personale, non ci credo.
+[02:10:29] Tre anni fa ci avete dato l'onore e la grande responsabilità di amministrare con l'esano.
+[02:10:37] Noi, quella responsabilità l'abbiamo pesa sul serio, non abbiamo perso di lavorare,
+[02:10:42] l'abbiamo fatto nei momenti difficili, con i vari problemi che ci sono stati raffrontare,
+[02:10:47] ma abbiamo sempre avuto il coraggio di farlo. Non vogliamo assolutamente che
+[02:10:53] nessuno ci dire che siamo i più bravi, siamo perfetti. Noi vogliamo soltanto che ci giudicate
+[02:10:59] per quello che vi abbia raccontato, per i lavori fatti, per i lavori conclusi, per
+[02:11:03] le progettualità inititele. Questo è il nostro modo di fare, questo è stato il
+[02:11:08] modo di fare che ci ha accompagnato e che mi ha permesso e ci ha permesso stasera
+[02:11:13] di potervi serenamente guardare negli occhi. Noi finché avremo l'onore di amministrare
+[02:11:18] questo paese, lo faremo, non ci torneremo indietro e cureremo l'interesse di con l'esano,
+[02:11:23] nessun interesse personale. Noi cureremo l'interesse della nostra comunità, perché noi
+[02:11:28] non stiamo amministrando un semplice comune, come magari qualcuno può pensare.
+[02:11:33] Noi stiamo amministrando il paese in cui viviamo, in cui usciamo, in cui i figli,
+[02:11:39] i nostri figli vanno a scuola, vanno nelle piazze. E è proprio per questo rispetto
+[02:11:45] che vi dobbiamo, che continueremo a farlo sempre con responsabilità, con utilità,
+[02:11:51] con serità e con determinazione, con tutti i limiti che comunque troveremo, ma con tutta
+[02:11:57] la passione che abbiamo dimostrato e continueremo a dimostrare. Continueremo ad
+[02:12:02] esserci e lavorare per con l'esano. Grazie e viva con l'esano.
+[02:14:48] Grazie a tutti.
+[02:15:18] Buonanotte.
+[02:15:48] I bambini?
+[02:15:51] Chissà ci vogliono.
+[02:16:06] Sono sposo?
+[02:16:09] Sì.
+[02:16:18] Buonanotte.
+[02:16:38] Arrivederci, buonanotte.
+[02:16:48] Buonanotte.
+[02:17:19] Buonanotte.
+[02:17:26] Oh, come si ferma qua.
