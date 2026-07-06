@@ -1,5 +1,7 @@
 # Collesano — Speeches & Rebuttal
 
+> 🇮🇹 **Versione italiana disponibile qui → [README in italiano](README_IT.md)**
+
 Two public speeches in Collesano (Sicily): former mayor **Giovanni Battista Meli** publicly accuses the current administration of losing or neglecting strategic projects, and mayor **Tiziana Cascio** responds point by point "with documents."
 
 ## Speeches
