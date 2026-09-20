@@ -1,5 +1,7 @@
 # Statement: Madonie Nomad Residency — Day 1 institutional speeches
 
+> 🇮🇹 **Versione italiana → [README-IT](README-IT.md)**
+
 - **Speakers (institutional, Collesano-relevant):** Tiziana Cascio (mayor of Collesano, lead municipality), Gioacchino Di Garbo (Madonie Smart Tourism coordinator), Alessandro Ficile (SO.SVI.MA.), Mario Cicero (mayor of Castelbuono)
 - **Role in dispute:** community/administration context — the same administration criticized in the political statements presents its territorial-development work (Madonie Smart Tourism, led by the Municipality of Collesano)
 - **Date:** 4 September 2026 (streamed 5 September)

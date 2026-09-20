@@ -1,5 +1,7 @@
 # Statement: Tiziana Cascio — mayor's reply "with documents"
 
+> 🇮🇹 **Versione italiana → [README-IT](README-IT.md)**
+
 - **Speaker:** Tiziana Cascio, mayor of Collesano (elected 2023, 39.62% of votes cast)
 - **Role in dispute:** respondent — answers Meli's accusations point by point
 - **Date:** 5 July 2026

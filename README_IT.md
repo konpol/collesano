@@ -1,8 +1,42 @@
-# Collesano — Discorsi e replica
+# Collesano — Osservatorio del dibattito pubblico
 
 > 🇬🇧 **English version available here → [README in English](README.md)**
 
-Due discorsi pubblici a Collesano (Sicilia): l'ex sindaco **Giovanni Battista Meli** accusa pubblicamente l'attuale amministrazione di aver perso o trascurato progetti strategici, e il sindaco **Tiziana Cascio** risponde punto per punto «con le carte».
+Una raccolta strutturata e documentata del dibattito pubblico a Collesano (Sicilia): cosa dicono l'**ex sindaco**, il **sindaco in carica**, l'**opposizione consiliare** e i **progetti di comunità** sulle questioni contese del paese — ogni affermazione è collegata al passaggio testuale della sua fonte e viene progressivamente verificata rispetto all'[archivio dei documenti ufficiali](official-documents/) conservato in questo repository.
+
+**Tre voci, tre interventi pubblici:**
+
+| Voce | Intervento | Data |
+|---|---|---|
+| ⚖️ **Giovanni Battista Meli** (ex sindaco) — le accuse | [comizio →](statements/2026-06-21_meli-rally/README-IT.md) | 21 giugno 2026 |
+| 🏛️ **Tiziana Cascio** (sindaco) — la replica punto per punto | [discorso →](statements/2026-07-05_cascio-reply/README-IT.md) | 5 luglio 2026 |
+| 🗳️ **«Vivi Collesano»** (4 consiglieri di minoranza) — il bilancio di fine mandato | [comizio + trascrizioni integrali →](statements/2026-09_vivi-collesano-rally/README-IT.md) · [video](https://www.youtube.com/live/WMYvap8mg00) | 18 settembre 2026 |
+| 🌍 Contesto di comunità: Madonie Nomad Residency (Collesano = comune capofila) | [interventi del Giorno 1 →](statements/2026-09-04_nomad-residency-day1/README-IT.md) | 4–6 settembre 2026 |
+
+## Dossier tematici
+
+Ogni dossier consolida **tutte le voci su un unico tema**: fatti condivisi → posizioni affermazione per affermazione (con ID tipo `DEP-01`) → cronologia → stato di verifica documentale → questioni aperte. *(Dossier attualmente in inglese; traduzione italiana in programma.)*
+
+| Tema | Stato | Somme in gioco | Voci |
+|---|---|---|---|
+| [Depuratore](topics/depuratore.md) | conteso | ~€1,4–1,75M | Meli · Cascio · Opposizione |
+| [PRG / PUG](topics/prg-pug.md) (piano regolatore) | scadenza mancata; responsabilità contesa | ~€75–100k spesi, ≥€150k futuri | Meli · Cascio · Opposizione |
+| [Casa di Comunità](topics/casa-di-comunita.md) | annullata; evitabilità contesa | €342k–500k | Meli · Cascio · Opposizione |
+| [Opera Pia / servizi sociali](topics/opera-pia-social.md) | attribuzione contesa | ~€2M | Meli · Cascio |
+| [Scuole](topics/schools.md) | parzialmente documentato | — | Cascio · Opposizione |
+| [Opere pubbliche](topics/public-works.md) | misto | varie | Meli · Cascio · Opposizione |
+| [Governance](topics/governance.md) (democrazia, clima consiliare) | conteso | — | Meli · Cascio · Opposizione |
+| [Nomad Residency / Smart Tourism](topics/nomad-residency.md) | contesto | — | Amministrazione · Opposizione |
+
+**Riferimenti trasversali:** [Cronologia di tutti gli eventi](timeline.md) · [Chi è chi](actors.md)
+
+> **Nota di neutralità:** ogni sintesi riporta le affermazioni **così come espresse dall'oratore**. Nulla in questo repository costituisce verifica indipendente, salvo dove un'affermazione è collegata a un documento dell'archivio. Dove i racconti divergono sulle cifre (es. €500k contro €342k), entrambe sono riportate così come dichiarate.
+
+---
+
+# Confronto originale punto per punto (Meli vs Cascio)
+
+Il confronto originale a due voci è conservato qui sotto; i dossier tematici sopra lo sostituiscono come punto d'ingresso principale.
 
 ## Discorsi
 

@@ -1,5 +1,7 @@
 # Statement: Giovanni Battista Meli — public rally
 
+> 🇮🇹 **Versione italiana → [README-IT](README-IT.md)**
+
 - **Speaker:** Giovanni Battista Meli, former mayor of Collesano (two terms, until 2023)
 - **Role in dispute:** accuser — charges the current administration with losing/neglecting strategic projects
 - **Date:** 21 June 2026

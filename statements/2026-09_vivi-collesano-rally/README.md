@@ -1,5 +1,7 @@
 # Statement: "Vivi Collesano" opposition group — end-of-term rally
 
+> 🇮🇹 **Versione italiana → [README-IT](README-IT.md)**
+
 - **Speakers:** the four minority councillors of Collesano — Michele Testaiuti [?], Maria Candida Cascio, Rosario Sapienza, Michele Agnello [?] (present, unable to speak for health reasons)
 - **Role in dispute:** third voice — the elected opposition's own audit of three years of the Cascio administration; independent of Meli (they explicitly reject the narrative that he directs them)
 - **Date:** 18 September 2026, 21:00 — Piazza 4 Cannoli, Collesano (after the Santissimo Crocifisso feast)
