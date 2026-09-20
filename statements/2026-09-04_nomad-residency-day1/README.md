@@ -7,7 +7,10 @@
 - **Date:** 4 September 2026 (streamed 5 September)
 - **Format:** festival livestream from Castelbuono, 2h14m
 - **Video:** [YouTube](https://www.youtube.com/watch?v=KRLPbhvIyBQ)
-- **Note:** Day 3 stream (6 September, 3h08m) contains the festival results and manifesto: [YouTube](https://www.youtube.com/live/4pTL012ZOY4)
+- **Transcripts (in this folder):**
+  - [English (timestamped, translated)](transcript_EN.md)
+  - [Italian (timestamped, auto-captions)](transcript_IT.md)
+- **Note:** Day 3 stream (6 September, 3h08m) with the festival results and manifesto has its own folder: [2026-09-06_nomad-residency-day3](../2026-09-06_nomad-residency-day3/)
 
 ## Summary — speaker by speaker
 
@@ -28,5 +31,3 @@
 
 ## Topics addressed
 [Nomad Residency / Smart Tourism](../../topics/nomad-residency.md) · [Public works](../../topics/public-works.md) (Targa Florio simulator — placement contested by the opposition)
-
-> Transcripts of the full streams (EN + IT) are kept outside the repository; this folder records the statement metadata and can host them later if needed.

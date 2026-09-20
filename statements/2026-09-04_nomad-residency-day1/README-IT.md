@@ -7,7 +7,10 @@
 - **Data:** 4 settembre 2026 (diretta del 5 settembre)
 - **Formato:** diretta streaming del festival da Castelbuono, 2h14m
 - **Video:** [YouTube](https://www.youtube.com/watch?v=KRLPbhvIyBQ)
-- **Nota:** la diretta del Giorno 3 (6 settembre, 3h08m) contiene i risultati del festival e il manifesto: [YouTube](https://www.youtube.com/live/4pTL012ZOY4)
+- **Trascrizioni (in questa cartella):**
+  - [Inglese (con timestamp, tradotta)](transcript_EN.md)
+  - [Italiano (con timestamp, sottotitoli automatici)](transcript_IT.md)
+- **Nota:** la diretta del Giorno 3 (6 settembre, 3h08m) con i risultati del festival e il manifesto ha una propria cartella: [2026-09-06_nomad-residency-day3](../2026-09-06_nomad-residency-day3/README-IT.md)
 
 ## Sintesi — intervento per intervento
 
@@ -28,5 +31,3 @@
 
 ## Temi trattati
 [Nomad Residency / Smart Tourism](../../topics/nomad-residency-IT.md) · [Opere pubbliche](../../topics/public-works-IT.md) (simulatore Targa Florio — collocazione contestata dall'opposizione)
-
-> Le trascrizioni integrali delle dirette (EN + IT) sono conservate fuori dal repository; questa cartella raccoglie i metadati dell'intervento e potrà ospitarle in seguito se necessario.
