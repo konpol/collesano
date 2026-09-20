@@ -2,11 +2,13 @@
 
 - **Speakers:** the four minority councillors of Collesano — Michele Testaiuti [?], Maria Candida Cascio, Rosario Sapienza, Michele Agnello [?] (present, unable to speak for health reasons)
 - **Role in dispute:** third voice — the elected opposition's own audit of three years of the Cascio administration; independent of Meli (they explicitly reject the narrative that he directs them)
-- **Date:** ~September 2026 (after the Santissimo Crocifisso feast; references events through Aug/Sep 2026)
+- **Date:** 18 September 2026, 21:00 — Piazza 4 Cannoli, Collesano (after the Santissimo Crocifisso feast)
 - **Format:** public piazza assembly, ~2h21m, streamed live on Facebook — held after the mayor declined their formal request for a face-to-face public debate
+- **Video:** [YouTube — "VIVI COLLESANO - INCONTRA LA CITTADINANZA"](https://www.youtube.com/live/WMYvap8mg00) (channel: Collesano Live, 1:50:08)
 - **Transcripts (in this folder):**
   - [Italian (timestamped)](transcript_IT.md)
   - [English (timestamped, translated)](transcript_EN.md)
+- **Timestamp note:** transcripts were made from a longer recording that includes ~31 minutes of pre-stream setup. To locate a transcript passage in the YouTube video, **subtract ~31:30** from the transcript timestamp (e.g. transcript 32:59 ≈ video 1:29).
 - **Provenance:** transcribed locally with faster-whisper (medium model) from the video recording; translation reviewed for consistency. Names/figures marked [?] are uncertain due to speech recognition; [unclear] marks garbled audio.
 
 ## Speaker order

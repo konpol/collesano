@@ -52,4 +52,4 @@ One chronological spine for all topics. Each entry: event → source voice(s) �
 - **6 Aug 2026** — opposition raises school structural problems in council
 - **19 Aug 2026** — giunta orders middle-school maintenance works (weeks before school opening)
 - **4–6 Sept 2026** — **Madonie Nomad Residency** festival, Castelbuono; Collesano lead municipality → [statement](statements/2026-09-04_nomad-residency-day1/)
-- **~Sept 2026** — **Vivi Collesano end-of-term rally** (after mayor declines joint debate) → [statement](statements/2026-09_vivi-collesano-rally/)
+- **~Sept 2026** — **Vivi Collesano end-of-term rally** — 18 September, Piazza 4 Cannoli (after mayor declines joint debate) → [statement](statements/2026-09_vivi-collesano-rally/) · [video](https://www.youtube.com/live/WMYvap8mg00)
