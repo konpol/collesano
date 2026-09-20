@@ -1,0 +1,5 @@
+2026-08-30 09:33:54 +0200 | indexer | rebuilt index.jsonl: 504 files
+2026-08-30 09:37:41 +0200 | albo-harvester | pubs=0 files=0 errors=0 bytes=0
+2026-08-30T08:02:59.842697Z | pages checked: 348 | new files: 4 | skipped files: 340 | errors: 0
+2026-08-30T08:19:13.391758Z | pages checked: 344 | new files: 0 | skipped files: 344 | errors: 0
+2026-08-30T12:00:15.481542Z | pages checked: 348 | new files: 0 | skipped files: 344 | errors: 0 | source: wp-json + live pages

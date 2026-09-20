@@ -1,0 +1,9 @@
+2026-08-30T09:08:06Z | dry-run | found=332 converted=1 translated=0 indexed=0 hold=0 failed=0 remaining=331 | sample=it/2026/2026-08-05__avviso-scuolabus-comunale-a-s-2026-2027.md
+2026-08-30T10:25:00Z | run-1 | found=332 converted=20 translated=20 indexed=18 hold=2 failed=0 remaining=312
+2026-08-30T11:40:00Z | run-2 | found=332 converted=20 translated=20 indexed=20 hold=0 failed=0 remaining=292
+2026-08-30T13:25:00Z | run-3 | found=332 converted=20 translated=20 indexed=20 hold=0 failed=0 remaining=272
+2026-08-30T15:10:00Z | run-4 | found=332 converted=20 translated=20 indexed=20 hold=0 failed=0 remaining=252
+2026-08-30T17:05:00Z | run-5 | found=332 converted=20 translated=20 indexed=20 hold=0 failed=0 remaining=232
+2026-08-30 20:22 run 6: 20 docs converted+translated (2026-02-19 -> 2026-01-02), 0 failed, 0 new holds
+2026-08-30T19:21:46Z run 7: slice [120:140], 19 converted+translated, 1 held (DISTRETTO-SS.zip, personal data: minor), 0 failed
+2026-08-30T19:44:55Z run 8: slice [140:160], 19 converted+translated, 1 held (elenco-con-DSU.pdf, personal data: benefit list), 0 failed
