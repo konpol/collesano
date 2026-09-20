@@ -10,7 +10,7 @@
 - **Trascrizioni (in questa cartella):**
   - [Inglese (con timestamp, tradotta)](transcript_EN.md)
   - [Italiano (con timestamp, sottotitoli automatici)](transcript_IT.md)
-- **Nota:** la diretta del Giorno 3 (6 settembre, 3h08m) con i risultati del festival e il manifesto ha una propria cartella: [2026-09-06_nomad-residency-day3](../2026-09-06_nomad-residency-day3/README-IT.md)
+- **Nota:** le altre giornate del festival hanno le proprie cartelle: [Giorno 2](../2026-09-05_nomad-residency-day2/README-IT.md) · [Giorno 3: risultati e manifesto](../2026-09-06_nomad-residency-day3/README-IT.md)
 
 ## Sintesi — intervento per intervento
 

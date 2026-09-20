@@ -10,7 +10,7 @@
 - **Transcripts (in this folder):**
   - [English (timestamped, translated)](transcript_EN.md)
   - [Italian (timestamped, auto-captions)](transcript_IT.md)
-- **Note:** Day 3 stream (6 September, 3h08m) with the festival results and manifesto has its own folder: [2026-09-06_nomad-residency-day3](../2026-09-06_nomad-residency-day3/)
+- **Note:** the other festival days have their own folders: [Day 2](../2026-09-05_nomad-residency-day2/) · [Day 3: results & manifesto](../2026-09-06_nomad-residency-day3/)
 
 ## Summary — speaker by speaker
 

@@ -11,7 +11,7 @@ A structured, source-linked record of the public debate in Collesano (Sicily): w
 | ⚖️ **Giovanni Battista Meli** (former mayor) — accusations | [rally →](statements/2026-06-21_meli-rally/) | 21 June 2026 |
 | 🏛️ **Tiziana Cascio** (mayor) — point-by-point reply | [speech →](statements/2026-07-05_cascio-reply/) | 5 July 2026 |
 | 🗳️ **"Vivi Collesano"** (4 opposition councillors) — end-of-term audit | [rally + full transcripts →](statements/2026-09_vivi-collesano-rally/) · [video](https://www.youtube.com/live/WMYvap8mg00) | 18 Sept 2026 |
-| 🌍 Community context: Madonie Nomad Residency (Collesano = lead municipality) | [Day 1 →](statements/2026-09-04_nomad-residency-day1/) · [Day 3: results & manifesto →](statements/2026-09-06_nomad-residency-day3/) | 4–6 Sept 2026 |
+| 🌍 Community context: Madonie Nomad Residency (Collesano = lead municipality) | [Day 1 →](statements/2026-09-04_nomad-residency-day1/) · [Day 2 →](statements/2026-09-05_nomad-residency-day2/) · [Day 3: results & manifesto →](statements/2026-09-06_nomad-residency-day3/) | 4–6 Sept 2026 |
 
 ## Topic dossiers
 

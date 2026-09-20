@@ -11,7 +11,7 @@ Una raccolta strutturata e documentata del dibattito pubblico a Collesano (Sicil
 | ⚖️ **Giovanni Battista Meli** (ex sindaco) — le accuse | [comizio →](statements/2026-06-21_meli-rally/README-IT.md) | 21 giugno 2026 |
 | 🏛️ **Tiziana Cascio** (sindaco) — la replica punto per punto | [discorso →](statements/2026-07-05_cascio-reply/README-IT.md) | 5 luglio 2026 |
 | 🗳️ **«Vivi Collesano»** (4 consiglieri di minoranza) — il bilancio di fine mandato | [comizio + trascrizioni integrali →](statements/2026-09_vivi-collesano-rally/README-IT.md) · [video](https://www.youtube.com/live/WMYvap8mg00) | 18 settembre 2026 |
-| 🌍 Contesto di comunità: Madonie Nomad Residency (Collesano = comune capofila) | [Giorno 1 →](statements/2026-09-04_nomad-residency-day1/README-IT.md) · [Giorno 3: risultati e manifesto →](statements/2026-09-06_nomad-residency-day3/README-IT.md) | 4–6 settembre 2026 |
+| 🌍 Contesto di comunità: Madonie Nomad Residency (Collesano = comune capofila) | [Giorno 1 →](statements/2026-09-04_nomad-residency-day1/README-IT.md) · [Giorno 2 →](statements/2026-09-05_nomad-residency-day2/README-IT.md) · [Giorno 3: risultati e manifesto →](statements/2026-09-06_nomad-residency-day3/README-IT.md) | 4–6 settembre 2026 |
 
 ## Dossier tematici
 

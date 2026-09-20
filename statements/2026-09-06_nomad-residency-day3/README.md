@@ -7,6 +7,7 @@
 - **Date:** Sunday, 6 September 2026
 - **Format:** festival livestream from Castelbuono, 3h08m
 - **Video:** [YouTube](https://www.youtube.com/live/4pTL012ZOY4)
+- **Other festival days:** [Day 1](../2026-09-04_nomad-residency-day1/) · [Day 2](../2026-09-05_nomad-residency-day2/)
 - **Transcripts (in this folder):**
   - [English (timestamped, translated)](transcript_EN.md)
   - [Italian (timestamped, as spoken — mixed IT/EN)](transcript_IT.md)

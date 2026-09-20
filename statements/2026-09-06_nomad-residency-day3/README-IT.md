@@ -7,6 +7,7 @@
 - **Data:** domenica 6 settembre 2026
 - **Formato:** diretta streaming del festival da Castelbuono, 3h08m
 - **Video:** [YouTube](https://www.youtube.com/live/4pTL012ZOY4)
+- **Altre giornate del festival:** [Giorno 1](../2026-09-04_nomad-residency-day1/README-IT.md) · [Giorno 2](../2026-09-05_nomad-residency-day2/README-IT.md)
 - **Trascrizioni (in questa cartella):**
   - [Inglese (con timestamp, tradotta)](transcript_EN.md)
   - [Italiano (con timestamp, come parlato — misto IT/EN)](transcript_IT.md)

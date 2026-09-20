@@ -51,5 +51,5 @@ One chronological spine for all topics. Each entry: event → source voice(s) �
 - **July 2026** — Testaiuti [?] retrieves school notes via records access
 - **6 Aug 2026** — opposition raises school structural problems in council
 - **19 Aug 2026** — giunta orders middle-school maintenance works (weeks before school opening)
-- **4–6 Sept 2026** — **Madonie Nomad Residency** festival, Castelbuono; Collesano lead municipality → [Day 1](statements/2026-09-04_nomad-residency-day1/) · [Day 3: results & manifesto](statements/2026-09-06_nomad-residency-day3/)
+- **4–6 Sept 2026** — **Madonie Nomad Residency** festival, Castelbuono; Collesano lead municipality → [Day 1](statements/2026-09-04_nomad-residency-day1/) · [Day 2](statements/2026-09-05_nomad-residency-day2/) · [Day 3: results & manifesto](statements/2026-09-06_nomad-residency-day3/)
 - **~Sept 2026** — **Vivi Collesano end-of-term rally** — 18 September, Piazza 4 Cannoli (after mayor declines joint debate) → [statement](statements/2026-09_vivi-collesano-rally/) · [video](https://www.youtube.com/live/WMYvap8mg00)
