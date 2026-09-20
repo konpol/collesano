@@ -19,7 +19,7 @@
 
 **Alessandro Ficile (SO.SVI.MA.).** I residenti temporanei, a partire dai nomadi digitali, possono rigenerare le aree interne fragili; questo evento apre una serie di azioni pianificate per almeno tre anni, in una logica «policentrica» dove Castelbuono è il nodo più maturo ma tutto il comprensorio partecipa.
 
-> **Perché è rilevante per l'Osservatorio:** sono gli stessi amministratori criticati negli interventi politici — qui presentano la loro narrazione pubblica più forte. Il contrappunto dell'opposizione (collocazione del container del simulatore, eventi vs progetti strutturali) è tracciato in [governance.md](../../topics/governance.md) e [nomad-residency.md](../../topics/nomad-residency.md).
+> **Perché è rilevante per l'Osservatorio:** sono gli stessi amministratori criticati negli interventi politici — qui presentano la loro narrazione pubblica più forte. Il contrappunto dell'opposizione (collocazione del container del simulatore, eventi vs progetti strutturali) è tracciato in [governance.md](../../topics/governance-IT.md) e [nomad-residency.md](../../topics/nomad-residency-IT.md).
 
 ## Passaggi chiave rilevanti per Collesano (Giorno 1)
 - **22:38–26:45 — Gioacchino Di Garbo:** il festival si inserisce nel progetto biennale «Madonie Smart Tourism» **con capofila il Comune di Collesano**; le puntate Mediaset di «Planet» (due sulla Targa Florio), il simulatore di rally, il servizio di Bell'Italia.
@@ -27,6 +27,6 @@
 - **29:12–33:26 — Mario Cicero:** segnala che professionisti nordeuropei si stanno già trasferendo a Collesano.
 
 ## Temi trattati
-[Nomad Residency / Smart Tourism](../../topics/nomad-residency.md) · [Opere pubbliche](../../topics/public-works.md) (simulatore Targa Florio — collocazione contestata dall'opposizione)
+[Nomad Residency / Smart Tourism](../../topics/nomad-residency-IT.md) · [Opere pubbliche](../../topics/public-works-IT.md) (simulatore Targa Florio — collocazione contestata dall'opposizione)
 
 > Le trascrizioni integrali delle dirette (EN + IT) sono conservate fuori dal repository; questa cartella raccoglie i metadati dell'intervento e potrà ospitarle in seguito se necessario.

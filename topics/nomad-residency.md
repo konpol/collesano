@@ -1,5 +1,7 @@
 # Madonie Nomad Residency & Smart Tourism
 
+> 🇮🇹 **Versione italiana → [nomad-residency-IT](nomad-residency-IT.md)**
+
 **Status:** context topic (community/administration perspective) · **Role:** the same administration criticized in the political statements leads a high-visibility territorial project
 
 ## 1. What this is

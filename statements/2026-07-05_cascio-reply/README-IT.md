@@ -24,4 +24,4 @@ L'impostazione di Cascio: risponde «con le carte», si assume esplicitamente un
 - **Democrazia:** contesta l'etichetta di «meno democratica di Putin»; chi ha subito davvero pressioni dovrebbe denunciare formalmente. Gli eventi culturali (Targa Florio, Carnevale) sono legittima azione di governo, non una distrazione.
 
 ## Temi trattati
-[Depuratore](../../topics/depuratore.md) · [PRG/PUG](../../topics/prg-pug.md) · [Casa di Comunità](../../topics/casa-di-comunita.md) · [Opera Pia / servizi sociali](../../topics/opera-pia-social.md) · [Opere pubbliche](../../topics/public-works.md) · [Governance](../../topics/governance.md)
+[Depuratore](../../topics/depuratore-IT.md) · [PRG/PUG](../../topics/prg-pug-IT.md) · [Casa di Comunità](../../topics/casa-di-comunita-IT.md) · [Opera Pia / servizi sociali](../../topics/opera-pia-social-IT.md) · [Opere pubbliche](../../topics/public-works-IT.md) · [Governance](../../topics/governance-IT.md)

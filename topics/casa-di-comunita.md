@@ -1,5 +1,7 @@
 # Casa di Comunità — community health centre
 
+> 🇮🇹 **Versione italiana → [casa-di-comunita-IT](casa-di-comunita-IT.md)**
+
 **Status:** project cancelled (undisputed); avoidability disputed · **Money at stake:** €342,123 PNRR allocation (per decree, per Cascio & opposition) / €500k feasibility figure (per Meli) · **Key fact:** of 38 municipalities in Palermo province, only **Collesano and Santa Flavia** were cancelled
 
 ## 1. What everyone agrees on

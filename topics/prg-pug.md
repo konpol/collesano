@@ -1,5 +1,7 @@
 # PRG / PUG — urban master plan
 
+> 🇮🇹 **Versione italiana → [prg-pug-IT](prg-pug-IT.md)**
+
 **Status:** deadline missed (undisputed); responsibility disputed · **Money at stake:** ~€75–100k spent on the update (wasted); ≥€150k estimated for the new PUG · **Key date:** 31 December 2025 (transitional-regime deadline, missed)
 
 ## 1. What everyone agrees on

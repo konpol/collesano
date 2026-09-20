@@ -1,5 +1,7 @@
 # Public works — roads, SP9, lighting, attribution & execution
 
+> 🇮🇹 **Versione italiana → [public-works-IT](public-works-IT.md)**
+
 **Status:** mixed — some undisputed works, attribution and execution quality disputed
 
 ## 1. What everyone agrees on

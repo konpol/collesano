@@ -1,5 +1,7 @@
 # Opera Pia & social-health services
 
+> 🇮🇹 **Versione italiana → [opera-pia-social-IT](opera-pia-social-IT.md)**
+
 **Status:** attribution disputed (whose achievement is it?) · **Money at stake:** ~€1,999,245 (Decree No. 440, 9 Dec 2022)
 
 ## 1. What everyone agrees on

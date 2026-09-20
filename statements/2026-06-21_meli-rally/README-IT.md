@@ -23,4 +23,4 @@ Il messaggio centrale di Meli: *«un vero sindaco dice la verità, ammette gli e
 - **Priorità:** troppi eventi e cerimonie (Targa Florio, Carnevale) mentre i progetti strutturali morivano; la gente «ha paura di parlare o anche solo di mettere like».
 
 ## Temi trattati
-[Depuratore](../../topics/depuratore.md) · [PRG/PUG](../../topics/prg-pug.md) · [Casa di Comunità](../../topics/casa-di-comunita.md) · [Opera Pia / servizi sociali](../../topics/opera-pia-social.md) · [Opere pubbliche](../../topics/public-works.md) · [Governance](../../topics/governance.md)
+[Depuratore](../../topics/depuratore-IT.md) · [PRG/PUG](../../topics/prg-pug-IT.md) · [Casa di Comunità](../../topics/casa-di-comunita-IT.md) · [Opera Pia / servizi sociali](../../topics/opera-pia-social-IT.md) · [Opere pubbliche](../../topics/public-works-IT.md) · [Governance](../../topics/governance-IT.md)

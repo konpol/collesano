@@ -1,5 +1,7 @@
 # Schools — buildings, transport, services
 
+> 🇮🇹 **Versione italiana → [schools-IT](schools-IT.md)**
+
 **Status:** partially documented (third-party certifications cited) · **Scope:** building safety, school transport, nursery
 
 ## 1. What everyone agrees on

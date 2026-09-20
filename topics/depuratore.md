@@ -1,5 +1,7 @@
 # Depuratore — wastewater treatment plant
 
+> 🇮🇹 **Versione italiana → [depuratore-IT](depuratore-IT.md)**
+
 **Status:** disputed · **Money at stake:** ~€1.4–1.75M (new plant) vs ~€250k (local upgrades) · **Last known event:** June 2025 (Region letter linking upgrade to PRG)
 
 ## 1. What everyone agrees on

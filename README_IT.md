@@ -15,18 +15,18 @@ Una raccolta strutturata e documentata del dibattito pubblico a Collesano (Sicil
 
 ## Dossier tematici
 
-Ogni dossier consolida **tutte le voci su un unico tema**: fatti condivisi → posizioni affermazione per affermazione (con ID tipo `DEP-01`) → cronologia → stato di verifica documentale → questioni aperte. *(Dossier attualmente in inglese; traduzione italiana in programma.)*
+Ogni dossier consolida **tutte le voci su un unico tema**: fatti condivisi → posizioni affermazione per affermazione (con ID tipo `DEP-01`) → cronologia → stato di verifica documentale → questioni aperte.
 
 | Tema | Stato | Somme in gioco | Voci |
 |---|---|---|---|
-| [Depuratore](topics/depuratore.md) | conteso | ~€1,4–1,75M | Meli · Cascio · Opposizione |
-| [PRG / PUG](topics/prg-pug.md) (piano regolatore) | scadenza mancata; responsabilità contesa | ~€75–100k spesi, ≥€150k futuri | Meli · Cascio · Opposizione |
-| [Casa di Comunità](topics/casa-di-comunita.md) | annullata; evitabilità contesa | €342k–500k | Meli · Cascio · Opposizione |
-| [Opera Pia / servizi sociali](topics/opera-pia-social.md) | attribuzione contesa | ~€2M | Meli · Cascio |
-| [Scuole](topics/schools.md) | parzialmente documentato | — | Cascio · Opposizione |
-| [Opere pubbliche](topics/public-works.md) | misto | varie | Meli · Cascio · Opposizione |
-| [Governance](topics/governance.md) (democrazia, clima consiliare) | conteso | — | Meli · Cascio · Opposizione |
-| [Nomad Residency / Smart Tourism](topics/nomad-residency.md) | contesto | — | Amministrazione · Opposizione |
+| [Depuratore](topics/depuratore-IT.md) | conteso | ~€1,4–1,75M | Meli · Cascio · Opposizione |
+| [PRG / PUG](topics/prg-pug-IT.md) (piano regolatore) | scadenza mancata; responsabilità contesa | ~€75–100k spesi, ≥€150k futuri | Meli · Cascio · Opposizione |
+| [Casa di Comunità](topics/casa-di-comunita-IT.md) | annullata; evitabilità contesa | €342k–500k | Meli · Cascio · Opposizione |
+| [Opera Pia / servizi sociali](topics/opera-pia-social-IT.md) | attribuzione contesa | ~€2M | Meli · Cascio |
+| [Scuole](topics/schools-IT.md) | parzialmente documentato | — | Cascio · Opposizione |
+| [Opere pubbliche](topics/public-works-IT.md) | misto | varie | Meli · Cascio · Opposizione |
+| [Governance](topics/governance-IT.md) (democrazia, clima consiliare) | conteso | — | Meli · Cascio · Opposizione |
+| [Nomad Residency / Smart Tourism](topics/nomad-residency-IT.md) | contesto | — | Amministrazione · Opposizione |
 
 **Riferimenti trasversali:** [Cronologia di tutti gli eventi](timeline.md) · [Chi è chi](actors.md)
 

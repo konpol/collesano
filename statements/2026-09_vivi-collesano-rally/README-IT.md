@@ -33,6 +33,6 @@
 | 1:57:50–2:21:22 | Maria Candida Cascio | Il confronto con Cefalù, la Casa di Comunità, il viaggio in America, le scuole, il congedo finale |
 
 ## Temi trattati
-[Depuratore](../../topics/depuratore.md) · [PRG/PUG](../../topics/prg-pug.md) · [Casa di Comunità](../../topics/casa-di-comunita.md) · [Scuole](../../topics/schools.md) · [Opere pubbliche](../../topics/public-works.md) · [Governance](../../topics/governance.md)
+[Depuratore](../../topics/depuratore-IT.md) · [PRG/PUG](../../topics/prg-pug-IT.md) · [Casa di Comunità](../../topics/casa-di-comunita-IT.md) · [Scuole](../../topics/schools-IT.md) · [Opere pubbliche](../../topics/public-works-IT.md) · [Governance](../../topics/governance-IT.md)
 
 > **Nota:** i primi ~23 minuti della registrazione sono preparativi pre-assemblea; gli interventi iniziano a ~32:59.

@@ -1,5 +1,7 @@
 # Governance — democracy, council climate, transparency
 
+> 🇮🇹 **Versione italiana → [governance-IT](governance-IT.md)**
+
 **Status:** disputed (style vs substance) · **Scope:** council rules, refusal of public debate, treatment of minority, social-media conduct
 
 ## 1. What everyone agrees on
