@@ -1,0 +1,62 @@
+# Machine-readable claims register for the Collesano Public Debate Observatory.
+# Sources: me = Meli 2026-06-21 · ca = Cascio 2026-07-05 · vc = Vivi Collesano rally Sept 2026
+# verification: documented | partial | unverified | contradicted
+# This file indexes headline claims; full nuance lives in topics/*.md
+
+topics:
+  depuratore:
+    file: topics/depuratore.md
+    claims:
+      - {id: DEP-01, claim: "DM 191/2022 funding line meant Collesano could have had a ~€1.4M plant at no local cost", by: [me, vc], disputed_by: [ca], verification: unverified}
+      - {id: DEP-02, claim: "2021 design was not build-ready; services conference concluded positively March 2024", by: [ca], verification: unverified}
+      - {id: DEP-03, claim: "Designer dispute settled ~€19k (vs ~€28k asked); updated project obtained", by: [ca], context_by: [me], verification: unverified}
+      - {id: DEP-04, claim: "June 2025 Region letter tied depuratore upgrade to PRG homework; no action followed", by: [vc], verification: unverified}
+  prg-pug:
+    file: topics/prg-pug.md
+    claims:
+      - {id: PRG-01, claim: "~10 years and €75–100k spent on PRG update, now wasted", by: [me, vc], acknowledged_by: [ca], verification: partial}
+      - {id: PRG-02, claim: "Public warnings given before deadline (Meli 11 Sept 2025; minority in council)", by: [me, vc], verification: unverified}
+      - {id: PRG-03, claim: "No administration–Region communication July 2023 → Nov/Dec 2025 (records access)", by: [vc], verification: unverified}
+      - {id: PRG-04, claim: "Late documentation deficient incl. two missing digital signatures; completed only 23 Dec 2025", by: [vc], verification: unverified}
+      - {id: PRG-05, claim: "Mayor accepts political responsibility for missed deadline but rejects 'did nothing' (PUG launched)", by: [ca], verification: unverified}
+      - {id: PRG-06, claim: "Cefalù used updated plan as leverage vs landscape plan; Collesano lost that weapon", by: [vc], verification: unverified}
+  casa-di-comunita:
+    file: topics/casa-di-comunita.md
+    claims:
+      - {id: CDC-01, claim: "Loss avoidable — mayor should have fought for re-modulation like Palermo/Termini/Godrano", by: [me, vc], disputed_by: [ca], verification: unverified}
+      - {id: CDC-02, claim: "Allocation €342,123 (decree) vs €500k feasibility figure", by: [ca, vc], alt_figure_by: [me], verification: unverified}
+      - {id: CDC-03, claim: "Only Collesano and Santa Flavia 'cancelled' of 38 in Palermo province", by: [me, vc], verification: unverified}
+      - {id: CDC-04, claim: "No project file existed at town hall; public explanation only after ~1 year of pressure", by: [vc], verification: unverified}
+      - {id: CDC-05, claim: "35-year ASP free-use agreement secures alternative health services", by: [ca], disputed_by: [vc], verification: unverified}
+  opera-pia-social:
+    file: topics/opera-pia-social.md
+    claims:
+      - {id: OPS-01, claim: "Administration presents as its own the ~€2M Decree 440/2022 project from Meli mandate", by: [me], disputed_by: [ca], verification: unverified}
+      - {id: OPS-02, claim: "Three distinct social projects conflated by Meli", by: [ca], verification: unverified}
+  schools:
+    file: topics/schools.md
+    claims:
+      - {id: SCH-01, claim: "Technical office wrote (budget report) that school buildings continuously need maintenance; Sept 2023 question followed plaster fall", by: [vc], verification: unverified}
+      - {id: SCH-02, claim: "June 2026: school principal certified structural deficiencies in writing", by: [vc], verification: unverified}
+      - {id: SCH-03, claim: "Reactive works: 6 Aug council criticism → 19 Aug giunta works before school opening", by: [vc], verification: unverified}
+      - {id: SCH-04, claim: "€17,658.46 transport-subsidy amendment voted down 11 Sept 2024", by: [vc], verification: unverified}
+  public-works:
+    file: topics/public-works.md
+    claims:
+      - {id: PW-01, claim: "Many claimed works were prepared under Meli; Cascio distinguishes funded vs ranked and lists own works, apologizing for one campaign claim", by: [me, ca], verification: unverified}
+      - {id: PW-03, claim: "SP9: first tranche lost, promised June 2024 delivery, partial works Feb 2025", by: [vc], verification: unverified}
+      - {id: PW-06, claim: "Tax-collection outsourcing averted by 25 Mar 2026 amendment; PEC discount added", by: [vc], verification: unverified}
+  governance:
+    file: topics/governance.md
+    claims:
+      - {id: GOV-01, claim: "Council speaking time cut early in term — first rules change in 20+ years", by: [vc], verification: unverified}
+      - {id: GOV-03, claim: "Citizens pressured over social-media likes/comments", by: [me, vc], disputed_by: [ca], verification: unverified}
+      - {id: GOV-04, claim: "Mayor declined formal request for public face-to-face debate", by: [vc], verification: unverified}
+      - {id: GOV-06, claim: "America-trip delegation chosen in majority WhatsApp group, opposition excluded", by: [vc], verification: unverified}
+      - {id: GOV-08, claim: "San Basilio leak ignored 18 months, fixed 10 days after Facebook video", by: [vc], verification: unverified}
+      - {id: GOV-09, claim: "Urban-décor motion (22 Apr 2026, 90-day deadline) unimplemented, allegedly to protect simulator container placement", by: [vc], verification: unverified}
+  nomad-residency:
+    file: topics/nomad-residency.md
+    claims:
+      - {id: NR-01, claim: "Madonie Smart Tourism (lead: Collesano): Mediaset episodes, simulator, Bell'Italia", by: [administration], partially_contested_by: [vc], verification: partial}
+      - {id: NR-03, claim: "Festival: 155 participants, manifesto incl. 21 coworking spaces, 3rd edition 2028", by: [administration], verification: unverified}

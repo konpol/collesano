@@ -1,8 +1,42 @@
-# Collesano — Speeches & Rebuttal
+# Collesano — Public Debate Observatory
 
 > 🇮🇹 **Versione italiana disponibile qui → [README in italiano](README_IT.md)**
 
-Two public speeches in Collesano (Sicily): former mayor **Giovanni Battista Meli** publicly accuses the current administration of losing or neglecting strategic projects, and mayor **Tiziana Cascio** responds point by point "with documents."
+A structured, source-linked record of the public debate in Collesano (Sicily): what the **former mayor**, the **current mayor**, the **elected opposition** and the **community projects** each say about the town's contested issues — every claim linked to the verbatim passage in its source, and progressively checked against the [official-documents archive](official-documents/) mirrored in this repository.
+
+**Three voices, three statements:**
+
+| Voice | Statement | Date |
+|---|---|---|
+| ⚖️ **Giovanni Battista Meli** (former mayor) — accusations | [rally →](statements/2026-06-21_meli-rally/) | 21 June 2026 |
+| 🏛️ **Tiziana Cascio** (mayor) — point-by-point reply | [speech →](statements/2026-07-05_cascio-reply/) | 5 July 2026 |
+| 🗳️ **"Vivi Collesano"** (4 opposition councillors) — end-of-term audit | [rally + full transcripts →](statements/2026-09_vivi-collesano-rally/) | Sept 2026 |
+| 🌍 Community context: Madonie Nomad Residency (Collesano = lead municipality) | [Day 1 speeches →](statements/2026-09-04_nomad-residency-day1/) | 4–6 Sept 2026 |
+
+## Topic dossiers
+
+Each dossier consolidates **all voices on one topic**: agreed facts → claim-by-claim positions (with IDs like `DEP-01`) → timeline → document-verification state → open questions.
+
+| Topic | Status | Money at stake | Voices |
+|---|---|---|---|
+| [Depuratore](topics/depuratore.md) (wastewater plant) | disputed | ~€1.4–1.75M | Meli · Cascio · Opposition |
+| [PRG / PUG](topics/prg-pug.md) (urban plan) | deadline missed; responsibility disputed | ~€75–100k wasted, ≥€150k ahead | Meli · Cascio · Opposition |
+| [Casa di Comunità](topics/casa-di-comunita.md) (health centre) | cancelled; avoidability disputed | €342k–500k | Meli · Cascio · Opposition |
+| [Opera Pia / social services](topics/opera-pia-social.md) | attribution disputed | ~€2M | Meli · Cascio |
+| [Schools](topics/schools.md) | partially documented | — | Cascio · Opposition |
+| [Public works](topics/public-works.md) | mixed | various | Meli · Cascio · Opposition |
+| [Governance](topics/governance.md) (democracy, council climate) | disputed | — | Meli · Cascio · Opposition |
+| [Nomad Residency / Smart Tourism](topics/nomad-residency.md) | context | — | Administration · Opposition |
+
+**Cross-cutting references:** [Timeline of all events](timeline.md) · [Who is who](actors.md)
+
+> **Neutrality note:** every summary reports claims **as expressed by the speaker**. Nothing here is independent verification unless a claim links to a document in the archive. Where accounts disagree on figures (e.g. €500k vs €342k), both are shown as stated.
+
+---
+
+# Original point-by-point comparison (Meli vs Cascio)
+
+The original two-voice comparison is preserved below; the topic dossiers above supersede it as the primary entry point.
 
 ## Speeches
 
@@ -45,3 +79,10 @@ Each cell ends with a 📖 link that jumps to the **full passage** in the origin
 [ca6]: https://github.com/konpol/collesano/blob/main/Tiziana-Cascio_2026-07-05_EN.md?plain=1#L108
 [ca7]: https://github.com/konpol/collesano/blob/main/Tiziana-Cascio_2026-07-05_EN.md?plain=1#L23
 [ca8]: https://github.com/konpol/collesano/blob/main/Tiziana-Cascio_2026-07-05_EN.md?plain=1#L15
+
+## Official documents (English)
+
+An unofficial mirror of official documents published by the Comune di Collesano, converted to Markdown and machine-translated into English.
+Documents converted: 159 · English translations: 159 · On hold for review: 4 · Last update: 2026-08-30.
+Full index: [official-documents-md/README.md](official-documents-md/README.md).
+All English files are unofficial machine translations; the Italian originals published by the Comune di Collesano are the only legally valid texts.
